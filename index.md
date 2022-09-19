@@ -1,7 +1,10 @@
 ---
 layout: page
-title: BDS 311 - Computational Approaches to Biological Data
+title: BDS 310 - Foundations of Biological Data Science
 ---
+
+#### THIS SITE IS STILL UNDER CONSTRUCTION FOR FALL 2022 TERM
+
 
 ### Course Description
  <!---
