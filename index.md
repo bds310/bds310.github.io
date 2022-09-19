@@ -30,8 +30,8 @@ tim.warren AT oregonstate.edu
 
 
 
-### [Syllabus](./syllabus.md)
-
+ <!---### [Syllabus](./syllabus.md) 
+-->
 
 ### Weekly Calendar  
 
