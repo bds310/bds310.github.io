@@ -55,7 +55,8 @@ davidson AT oregonstate.edu
 |     |    |     |      |
 | Week 8 <br /> 11/17  | Introduction to Bioinformatics *No lecture 11/15*|                                                | No HW |
 |     |    |     |      |
-| Week 9 <br /> 11/22   |Bioinformatics continued|  | | HW 8 <br/> Due 12/2 |
+| Week 9 <br /> 11/22   |Bioinformatics continued|  | | HW 8 <br/> Due 12/2 |                                             | HW 8<br/> Due TBD |
+|     |    |     |      |
 | Week 10 <br /> 11/29, 12/01   | Guest Lecture, Synthesis  |                         | |
 
 
