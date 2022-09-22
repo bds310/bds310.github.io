@@ -11,7 +11,7 @@ tim.warren AT oregonstate.edu
 ### Teaching Assistant
 
 Michael Getz
-sathlera AT oregonstate.edu
+getzm AT oregonstate.edu
 
 ## Course Assistant
 Nate Davidson
@@ -67,7 +67,7 @@ At the completion of this course, students will be able to:
 
 ### Grading
 
-- 80% Weekly problem sets
+- 80% Average of weekly problem sets (each normalized to count equally)
 - 20% Participation and collaboration (Largely based on attendance)
 
 ### Learning Resources
