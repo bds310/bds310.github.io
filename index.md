@@ -53,7 +53,7 @@ davidson AT oregonstate.edu
 |     |    |     |      |
 | Week 7 <br /> 11/08, 11/10    |Python on the Command Line; Defensive programming   |           | HW 7<br/> Due Tue 11/22 |
 |     |    |     |      |
-| Week 8 <br /> 11/17  | Introduction to Bioinformatics *No lecture 11/15*|                                                |   |
+| Week 8 <br /> 11/17  | Introduction to Bioinformatics *No lecture 11/15*|                                                | No HW |
 |     |    |     |      |
 | Week 9 <br /> 11/22   |Bioinformatics continued|  | | HW 8 <br/> Due 12/2 |
 | Week 10 <br /> 11/29, 12/01   | Guest Lecture, Synthesis  |                         | |
