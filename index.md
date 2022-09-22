@@ -13,7 +13,7 @@ Lecture: Tu/Th ALS 4000 10-11:20
  <img src="./assets/images/covidtrace_color_rev-01.png" width="390" height="270" align='right'/> 
 -->
  <div style="text-align: justify"> 
- Develops competency in scientific computing and data analysis with broad applications to the life sciences. Introduces the Python programming language as a versatile, powerful tool for visualizing and analyzing data and for performing reproducible research. Focuses on real-world datasets originating across the life sciences. Provides a foundation for future work in data-intensive disciplines.![image](https://user-images.githubusercontent.com/2722239/191774967-92b93279-bba3-4d94-b45c-c9555758b68e.png)
+ Develops competency in scientific computing and data analysis with broad applications to the life sciences. Introduces the Python programming language as a versatile, powerful tool for visualizing and analyzing data and for performing reproducible research. Focuses on real-world datasets originating across the life sciences. Provides a foundation for future work in data-intensive disciplines.
 
 </div>   
 
@@ -53,9 +53,9 @@ davidson AT oregonstate.edu
 |     |    |     |      |
 | Week 7 <br /> 11/08, 11/10    |Python on the Command Line; Defensive programming   |[Git cheat sheet](https://training.github.com/downloads/github-git-cheat-sheet.pdf)<br> [Carpentries git lesson](https://swcarpentry.github.io/git-novice/) <br> [Git references materials, exercises](https://open-source-for-researchers.github.io/open-source-workshop/) <br>[Remote Repositories](https://docs.github.com/en/github/getting-started-with-github/managing-remote-repositories)             | HW 7<br/> Due Tue 11/22 |
 |     |    |     |      |
-| Week 8 <br /> 11/17   | *No lecture 11/15*|                                                |   |
+| Week 8 <br /> 11/17  | Introduction to Bioinformatics *No lecture 11/15*|                                                |   |
 |     |    |     |      |
-| Week 9 <br /> 11/22   | Guest lecture by [David Kroodsma](https://globalfishingwatch.org/meet-the-team/david-kroodsma/), Director of Research and Innovation at Global Fishing Watch. Synthesis, Future Opportunities   | [Kroodsma et al. 2018](https://www.science.org/doi/abs/10.1126/science.aao5646)                                           | HW 8 <br/> Due 12/2 |
-| Week 10 <br /> 11/29, 12/01   | Guest lecture by [David Kroodsma](https://globalfishingwatch.org/meet-the-team/david-kroodsma/), Director of Research and Innovation at Global Fishing Watch. Synthesis, Future Opportunities   | [Kroodsma et al. 2018](https://www.science.org/doi/abs/10.1126/science.aao5646)                                           | HW 9 <br/> Due TBD |
+| Week 9 <br /> 11/22   |Bioinformatics continued|  | | HW 8 <br/> Due 12/2 |
+| Week 10 <br /> 11/29, 12/01   | Guest Lecture, Synthesis  |                         | |
 
 
