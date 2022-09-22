@@ -45,13 +45,13 @@ davidson AT oregonstate.edu
 |     |    |     |      |
 | Week 3 <br /> 10/11, 10/13    |Making choices and creating functions |     | HW 3 <br/> Due Fri 10/21|
 |     |    |     |      |
-| Week 4 <br /> 10/18, 10/20    | Analyzing Tabular Data with Pandas |[Inferential Thinking: Chapter 9, Randomness](https://inferentialthinking.com/chapters/09/Randomness.html)<br>[Inferential Thinking: Chapter 10, Sampling](https://inferentialthinking.com/chapters/10/Sampling_and_Empirical_Distributions.html)<br>        | HW 4 <br/> Due Fri 10/28 |
+| Week 4 <br /> 10/18, 10/20    | Analyzing Tabular Data with Pandas |    | HW 4 <br/> Due Fri 10/28 |
 |     |    |     |      |
-|  Week 5 <br /> 10/25, 10/27   | Data visualization |[Inferential Thinking: Chapter 11: Testing Hypotheses](https://inferentialthinking.com/chapters/11/Testing_Hypotheses.html)<br>[Chapter 12: Comparing Two Samples](https://inferentialthinking.com/chapters/12/Comparing_Two_Samples.html)<br>[Illustrated permutation test](https://www.jwilber.me/permutationtest/)                                                   | HW 5 <br/> Due Fri 11/4 |
+|  Week 5 <br /> 10/25, 10/27   | Data visualization |  | HW 5 <br/> Due Fri 11/4 |
 |     |    |     |      |
-| Week 6 <br /> 11/01, 11/03    | Python Dictionaries  | [Inferential Thinking: Chapter 13: Testing Hypotheses](https://inferentialthinking.com/chapters/13/Estimation.html)<br>[Bootstrap schematic](https://online.stat.psu.edu/stat555/node/119/)<br>[News article on origin of bootstrap](https://www.nytimes.com/1988/11/08/science/theorist-applies-computer-power-to-uncertainty-in-statistics.html)<br>[Inferential Thinking: Prediction](https://inferentialthinking.com/chapters/15/Prediction.html) <br> [Inference for Regression](https://inferentialthinking.com/chapters/16/Inference_for_Regression.html)                                       | HW 6 <br/> Due Fri 11/11 |
+| Week 6 <br /> 11/01, 11/03    | Python Dictionaries  |        | HW 6 <br/> Due Fri 11/11 |
 |     |    |     |      |
-| Week 7 <br /> 11/08, 11/10    |Python on the Command Line; Defensive programming   |[Git cheat sheet](https://training.github.com/downloads/github-git-cheat-sheet.pdf)<br> [Carpentries git lesson](https://swcarpentry.github.io/git-novice/) <br> [Git references materials, exercises](https://open-source-for-researchers.github.io/open-source-workshop/) <br>[Remote Repositories](https://docs.github.com/en/github/getting-started-with-github/managing-remote-repositories)             | HW 7<br/> Due Tue 11/22 |
+| Week 7 <br /> 11/08, 11/10    |Python on the Command Line; Defensive programming   |           | HW 7<br/> Due Tue 11/22 |
 |     |    |     |      |
 | Week 8 <br /> 11/17  | Introduction to Bioinformatics *No lecture 11/15*|                                                |   |
 |     |    |     |      |
