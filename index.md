@@ -39,9 +39,9 @@ davidson AT oregonstate.edu
 |:-----------------------------        |:--------------------------------- |:------------------------------------  |:----------------------                      |
 | Week 0 <br />09/22&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;| Course Goals and Philosophy <br />Introduction to Unix Shell and Python &nbsp; &nbsp; &nbsp;| [Jupyter Notebook](https://www.e-education.psu.edu/geog489/node/2204)&nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;  &nbsp; &nbsp;  | HW 0 <br/> Due Fr 09/30 &nbsp; &nbsp; |
 |        |                |         |            |
-| Week 1 <br /> 09/27, 09/29    | Working with the Unix Shell  | <br>[Unix Shell](https://swcarpentry.github.io/shell-novice/)    | HW 1 <br/> Due Fri 10/07  |
+| Week 1 <br /> 09/27, 09/29    | Working with the Unix Shell  | <br>[Unix Shell](https://swcarpentry.github.io/shell-novice/)<br>  | HW 1 <br/> Due Fri 10/07  |
 |     |    |     |      |
-| Week 2 <br /> 10/04, 10/06    | Python Fundamentals: Data types, Storing and accessing data, Plotting   | [Python introductory curriculum](https://swcarpentry.github.io/python-novice-inflammation/)                                          | HW 2 <br/> Due Fri 10/14|
+| Week 2 <br /> 10/04, 10/06    | Python Fundamentals: Data types, Storing and accessing data, Plotting   | [Class curriculum](https://swcarpentry.github.io/python-novice-inflammation/)  <br>  [General Python Reference](https://docs.python.org/3/reference/index.html)<br> [Python in Jup. Notebooks](http://mbakker7.github.io/exploratory_computing_with_python/)                                       | HW 2 <br/> Due Fri 10/14|
 |     |    |     |      |
 | Week 3 <br /> 10/11, 10/13    |Repeating actions with loops, Making choices and creating functions |     | HW 3 <br/> Due Fri 10/21|
 |     |    |     |      |
