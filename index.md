@@ -41,9 +41,9 @@ davidson AT oregonstate.edu
 |        |                |         |            |
 | Week 1 <br /> 09/27, 09/29    | Working with the Unix Shell  | <br>[Unix Shell](https://swcarpentry.github.io/shell-novice/)    | HW 1 <br/> Due Fri 10/07  |
 |     |    |     |      |
-| Week 2 <br /> 10/04, 10/06    | Python Fundamentals: Data types, Storing and accessing data, Repeating actions with Loops   |                                           | HW 2 <br/> Due Fri 10/14|
+| Week 2 <br /> 10/04, 10/06    | Python Fundamentals: Data types, Storing and accessing data, Plotting   | [Python introductory curriculum](https://swcarpentry.github.io/python-novice-inflammation/)                                          | HW 2 <br/> Due Fri 10/14|
 |     |    |     |      |
-| Week 3 <br /> 10/11, 10/13    |Making choices and creating functions |     | HW 3 <br/> Due Fri 10/21|
+| Week 3 <br /> 10/11, 10/13    |Repeating actions with loops, Making choices and creating functions |     | HW 3 <br/> Due Fri 10/21|
 |     |    |     |      |
 | Week 4 <br /> 10/18, 10/20    | Analyzing Tabular Data with Pandas |    | HW 4 <br/> Due Fri 10/28 |
 |     |    |     |      |
