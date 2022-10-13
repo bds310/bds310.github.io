@@ -43,13 +43,13 @@ davidson AT oregonstate.edu
 |     |    |     |      |
 | Week 2 <br /> 10/04, 10/06    | Python Fundamentals: Data types, Storing and accessing data, Plotting   | [Class curriculum](https://swcarpentry.github.io/python-novice-inflammation/)  <br>  [General Python Reference](https://docs.python.org/3/reference/index.html)<br> [Python in Jup. Notebooks](http://mbakker7.github.io/exploratory_computing_with_python/)                                       | HW 2 <br/> Due Fri 10/14|
 |     |    |     |      |
-| Week 3 <br /> 10/11, 10/13    |Repeating actions with loops, Making choices and creating functions |     | HW 3 <br/> Due Fri 10/21|
+| Week 3 <br /> 10/11, 10/13    |Repeating actions with loops, Creating functions |     | HW 3 <br/> Due Fri 10/21|
 |     |    |     |      |
-| Week 4 <br /> 10/18, 10/20    | Analyzing Tabular Data with Pandas |    | HW 4 <br/> Due Fri 10/28 |
+| Week 4 <br /> 10/18, 10/20    | While Loops, Making Choices and conditional statements.  |    | HW 4 <br/> Due Fri 10/28 |
 |     |    |     |      |
-|  Week 5 <br /> 10/25, 10/27   | Data visualization |  | HW 5 <br/> Due Fri 11/4 |
+|  Week 5 <br /> 10/25, 10/27   | Plotting; Pandas for tabular data |  | HW 5 <br/> Due Fri 11/4 |
 |     |    |     |      |
-| Week 6 <br /> 11/01, 11/03    | Python Dictionaries  |        | HW 6 <br/> Due Fri 11/11 |
+| Week 6 <br /> 11/01, 11/03    | Python dictionaries |        | HW 6 <br/> Due Fri 11/11 |
 |     |    |     |      |
 | Week 7 <br /> 11/08, 11/10    |Python on the Command Line; Defensive programming   |           | HW 7<br/> Due Tue 11/22 |
 |     |    |     |      |
