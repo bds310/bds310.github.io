@@ -43,7 +43,7 @@ davidson AT oregonstate.edu
 |     |    |     |      |
 | Week 2 <br /> 10/04, 10/06    | Python Fundamentals: Data types, Storing and accessing data, Plotting   | [Class curriculum](https://swcarpentry.github.io/python-novice-inflammation/)  <br>  [General Python Reference](https://docs.python.org/3/reference/index.html)<br> [Python in Jup. Notebooks](http://mbakker7.github.io/exploratory_computing_with_python/)                                       | HW 2 <br/> Due Fri 10/14|
 |     |    |     |      |
-| Week 3 <br /> 10/11, 10/13    |Repeating actions with for loops | [for loops] (https://swcarpentry.github.io/python-novice-inflammation/05-loop/index.html)     | HW 3 <br/> Due Fri 10/21|
+| Week 3 <br /> 10/11, 10/13    |Repeating actions with for loops | [for loops](https://swcarpentry.github.io/python-novice-inflammation/05-loop/index.html)     | HW 3 <br/> Due Fri 10/21|
 |     |    |     | |
 | Week 4 <br /> 10/18, 10/20    | Defining functions, Making Choices and conditional statements, While loops  |[defining functions](https://swcarpentry.github.io/python-novice-inflammation/08-func/index.html)   | HW 4 <br/> Due Fri 10/28 |
 |     |    |     |      |
