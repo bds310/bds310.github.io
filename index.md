@@ -31,6 +31,7 @@ Nate Davidson
 davidson AT oregonstate.edu
 
 ### [Syllabus](./syllabus.md) 
+### [Cheat Sheet, compiled by M. Getz](./lecture_notes/cheat_sheet.pdf)
 
 
 ### Weekly Calendar  
