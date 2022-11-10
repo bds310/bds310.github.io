@@ -51,10 +51,9 @@ davidson AT oregonstate.edu
 |     |    |     |      |
 | Week 6 <br /> 11/01, 11/03    | Python dictionaries |        | HW 6 <br/> Due Fri 11/11 |
 |     |    |     |      |
-| Week 7 <br /> 11/08, 11/10    |   |           | HW 7<br/> Due Tue 11/22 |
+| Week 7 <br /> 11/08, 11/10    | Dictionaries continued  |           | HW 7<br/> Due Tue 11/22 |
 |     |    |     |      |
-| Week 8 <br /> 11/17  | Running Python Scripts (including
- on your own computer);  *No lecture 11/15*|                                                | No HW |
+| Week 8 <br /> 11/17  | Running Python Scripts (including on your own computer);  *No lecture 11/15*|                                                | No HW |
 |     |    |     |      |
 | Week 9 <br /> 11/22   |File input and output|  | HW 8 <br/> Due Tue 12/6|                              
 |     |    |     |      |
