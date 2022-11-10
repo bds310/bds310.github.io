@@ -47,16 +47,17 @@ davidson AT oregonstate.edu
 |     |    |     | |
 | Week 4 <br /> 10/18, 10/20    | Defining functions, Making Choices and conditional statements, While loops  |[defining functions](https://swcarpentry.github.io/python-novice-inflammation/08-func/index.html)   | HW 4 <br/> Due Fri 10/28 |
 |     |    |     |      |
-|  Week 5 <br /> 10/25, 10/27   | Plotting and data visualization |  | HW 5 <br/> Due Fri 11/4 |
+|  Week 5 <br /> 10/25, 10/27   | Plotting and data visualization |[matplotlib example plots](https://matplotlib.org/stable/gallery/index.html)<br> [axis handles](https://matplotlib.org/stable/api/axes_api.html)| HW 5 <br/> Due Fri 11/4 |
 |     |    |     |      |
 | Week 6 <br /> 11/01, 11/03    | Python dictionaries |        | HW 6 <br/> Due Fri 11/11 |
 |     |    |     |      |
-| Week 7 <br /> 11/08, 11/10    |Python on the Command Line and on your own computer; Defensive programming   |           | HW 7<br/> Due Tue 11/22 |
+| Week 7 <br /> 11/08, 11/10    |   |           | HW 7<br/> Due Tue 11/22 |
 |     |    |     |      |
-| Week 8 <br /> 11/17  | Introduction to Bioinformatics *No lecture 11/15*|                                                | No HW |
+| Week 8 <br /> 11/17  | Running Python Scripts (including
+ on your own computer);  *No lecture 11/15*|                                                | No HW |
 |     |    |     |      |
-| Week 9 <br /> 11/22   |Bioinformatics continued|  | HW 8 <br/> Due TBD|                              
+| Week 9 <br /> 11/22   |File input and output|  | HW 8 <br/> Due Tue 12/6|                              
 |     |    |     |      |
-| Week 10 <br /> 11/29, 12/01   | Guest Lecture, Synthesis  |                         | |
+| Week 10 <br /> 11/29, 12/01   | Defensive programming, Synthesis  |                         | |
 
 
