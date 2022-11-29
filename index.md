@@ -50,13 +50,13 @@ davidson AT oregonstate.edu
 |     |    |     |      |
 |  Week 5 <br /> 10/25, 10/27   | Plotting and data visualization |[matplotlib example plots](https://matplotlib.org/stable/gallery/index.html)<br> [axis handles](https://matplotlib.org/stable/api/axes_api.html)| HW 5 <br/> Due Fri 11/4 |
 |     |    |     |      |
-| Week 6 <br /> 11/01, 11/03    | Python dictionaries |        | HW 6 <br/> Due Fri 11/11 |
+| Week 6 <br /> 11/01, 11/03    | Python dictionaries |   [dictionary reference](https://www.greenteapress.com/thinkpython2/html/thinkpython2012.html)     | HW 6 <br/> Due Fri 11/11 |
 |     |    |     |      |
 | Week 7 <br /> 11/08, 11/10    | Dictionaries continued  |           | HW 7<br/> Due Tue 11/22 |
 |     |    |     |      |
-| Week 8 <br /> 11/17  | Running Python Scripts (including on your own computer);  *No lecture 11/15*|                                                | No HW |
+| Week 8 <br /> 11/17  | Running Python Scripts (including on your own computer);  *No lecture 11/15*| [command-line Python scripts](https://swcarpentry.github.io/python-novice-inflammation/12-cmdline/index.html)                                               | No HW |
 |     |    |     |      |
-| Week 9 <br /> 11/22   |File input and output|  | HW 8 <br/> Due Tue 12/6|                              
+| Week 9 <br /> 11/22   |File input and output| [file input and output tutorial](https://datacarpentry.org/python-socialsci/05-processing-data-from-file/index.html) | HW 8 <br/> Due Tue 12/6|                              
 |     |    |     |      |
 | Week 10 <br /> 11/29, 12/01   | Defensive programming, Synthesis  |                         | |
 
