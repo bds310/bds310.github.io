@@ -37,21 +37,21 @@ davidson AT oregonstate.edu
 
 |Date                                  | Topics                             |  Relevant Reading                     | Assignment                                 |
 |:-----------------------------        |:--------------------------------- |:------------------------------------  |:----------------------                      |
-| Week 0 <br />09/28&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;| Course Goals and Philosophy <br />Introduction to Unix Shell and Python &nbsp; &nbsp; &nbsp;| [Jupyter Notebook](https://www.e-education.psu.edu/geog489/node/2204)&nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;  &nbsp; &nbsp;  | HW 0 <br/> Due Mon 10/02 &nbsp; &nbsp; |
+| Week 0 <br />09/28&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;| Course Goals and Philosophy <br />Introduction to Unix Shell and Python &nbsp; &nbsp; &nbsp;| [Jupyter Notebook](https://www.e-education.psu.edu/geog489/node/2204)&nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;  &nbsp; &nbsp;  | HW 0 <br/> Due Fri 10/06 &nbsp; &nbsp; |
 |        |                |         |            |
-| Week 1 <br /> 10/3, 10/5    | Working with the Unix Shell  | <br>[Unix Shell](https://swcarpentry.github.io/shell-novice/)<br>  | HW 1 <br/> Due Mon 10/16  |
+| Week 1 <br /> 10/3, 10/5    | Working with the Unix Shell  | <br>[Unix Shell](https://swcarpentry.github.io/shell-novice/)<br>  | HW 1 <br/> Due Fri 10/13  |
 |     |    |     |      |
-| Week 2 <br /> 10/10, 10/12    | Python Fundamentals: Data types, Storing and accessing data, Plotting   | [Class curriculum](https://swcarpentry.github.io/python-novice-inflammation/)  <br>  [General Python Reference](https://docs.python.org/3/reference/index.html)<br> [Python in Jup. Notebooks](http://mbakker7.github.io/exploratory_computing_with_python/)                                       | HW 2 <br/> Due Mon 10/23|
+| Week 2 <br /> 10/10, 10/12    | Python Fundamentals: Data types, Storing and accessing data, Plotting   | [Class curriculum](https://swcarpentry.github.io/python-novice-inflammation/)  <br>  [General Python Reference](https://docs.python.org/3/reference/index.html)<br> [Python in Jup. Notebooks](http://mbakker7.github.io/exploratory_computing_with_python/)                                       | HW 2 <br/> Due Fri 10/20|
 |     |    |     |      |
-| Week 3 <br /> 10/17, 10/19    |Repeating actions with for loops | [for loops](https://swcarpentry.github.io/python-novice-inflammation/05-loop/index.html)     | HW 3 <br/> Due Mon 10/30|
+| Week 3 <br /> 10/17, 10/19    |Repeating actions with for loops | [for loops](https://swcarpentry.github.io/python-novice-inflammation/05-loop/index.html)     | HW 3 <br/> Due Fri 10/27|
 |     |    |     | |
-| Week 4 <br /> 10/24, 10/26    | Defining functions, Making Choices and conditional statements, While loops  |[defining functions](https://swcarpentry.github.io/python-novice-inflammation/08-func/index.html)   | HW 4 <br/> Due Mon 11/06 |
+| Week 4 <br /> 10/24, 10/26    | Defining functions, Making Choices and conditional statements, While loops  |[defining functions](https://swcarpentry.github.io/python-novice-inflammation/08-func/index.html)   | HW 4 <br/> Due Fri 11/03 |
 |     |    |     |      |
-|  Week 5 <br /> 10/31, 11/02   | Plotting and data visualization. Week 1 |[matplotlib example plots](https://matplotlib.org/stable/gallery/index.html)<br> [axis handles](https://matplotlib.org/stable/api/axes_api.html)| **In-class Quiz** 10/31  HW 5 <br/> Due Mon 11/13 |
+|  Week 5 <br /> 10/31, 11/02   | Plotting and data visualization. Week 1 |[matplotlib example plots](https://matplotlib.org/stable/gallery/index.html)<br> [axis handles](https://matplotlib.org/stable/api/axes_api.html)| **In-class Quiz** 10/31  HW 5 <br/> Due Mon 11/10 |
 |     |    |     |      |
-| Week 6 <br /> 11/07, 11/09    | **No class 11/7** Plotting and data visualization, Continued|   [dictionary reference](https://www.greenteapress.com/thinkpython2/html/thinkpython2012.html)     | HW 6 <br/> Due Mon 11/20 |
+| Week 6 <br /> 11/07, 11/09    | **No class 11/7** Plotting and data visualization, Continued|   [dictionary reference](https://www.greenteapress.com/thinkpython2/html/thinkpython2012.html)     | HW 6 <br/> Due Fri 11/17 |
 |     |    |     |      |
-| Week 7 <br /> 11/14, 11/16    | Python Dictionaries |           | HW 7<br/> Due Mon 12/04 |
+| Week 7 <br /> 11/14, 11/16    | Python Dictionaries |           | HW 7<br/> Due Fri 12/1 |
 |     |    |     |      |
 | Week 8 <br /> 11/21  | | [command-line Python scripts](https://swcarpentry.github.io/python-novice-inflammation/12-cmdline/index.html)                                               |  |
 |     |    |     |      |
