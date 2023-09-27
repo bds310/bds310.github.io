@@ -49,14 +49,14 @@ davidson AT oregonstate.edu
 |     |    |     |      |
 |  Week 5 <br /> 10/31, 11/02   | Plotting and data visualization. Week 1 |[matplotlib example plots](https://matplotlib.org/stable/gallery/index.html)<br> [axis handles](https://matplotlib.org/stable/api/axes_api.html)|   HW 5 <br/> Due Fri 11/10 |
 |     |    |     |      |
-| Week 6 <br />  11/07, 11/09    | Plotting and data visualization, Week 2. In-class quiz, Tu 11/07|   [dictionary reference](https://www.greenteapress.com/thinkpython2/html/thinkpython2012.html)     | HW 6 <br/> Due Fri 11/17 |
+| Week 6 <br />  11/07, 11/09    | Plotting and data visualization, Week 2. <br> *In-class quiz, Tu 11/07*|   [dictionary reference](https://www.greenteapress.com/thinkpython2/html/thinkpython2012.html)     | HW 6 <br/> Due Fri 11/17 |
 |     |    |     |      |
 | Week 7 <br /> 11/14, 11/16    | Python Dictionaries |           | HW 7<br/> Due Fri 12/1 |
 |     |    |     |      |
 | Week 8 <br /> *11/21*  | | [command-line Python scripts](https://swcarpentry.github.io/python-novice-inflammation/12-cmdline/index.html)                                               |  |
 |     |    |     |      |
-| Week 9 <br /> 11/28,11/30   |File input and output| [file input and output tutorial](https://datacarpentry.org/python-socialsci/05-processing-data-from-file/index.html) | HW 8 <br/> Due Tue 12/11|                              
+| Week 9 <br /> 11/28,11/30   |Writing Command-line Python scripts| [file input and output tutorial](https://datacarpentry.org/python-socialsci/05-processing-data-from-file/index.html) | HW 8 <br/> Due Tue 12/11|                              
 |     |    |     |      |
-| Week 10 <br /> 12/05, 12/07   | Defensive programming, Synthesis. In-class quiz, Tu 12/05 |                         | |
+| Week 10 <br /> 12/05, 12/07   | Synthesis.<br> *In-class quiz, Tu 12/05* |                         | |
 
 
