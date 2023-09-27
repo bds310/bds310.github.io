@@ -49,7 +49,7 @@ davidson AT oregonstate.edu
 |     |    |     |      |
 |  Week 5 <br /> 10/31, 11/02   | Plotting and data visualization. Week 1 |[matplotlib example plots](https://matplotlib.org/stable/gallery/index.html)<br> [axis handles](https://matplotlib.org/stable/api/axes_api.html)| **In-class Quiz** 10/31  HW 5 <br/> Due Fri 11/10 |
 |     |    |     |      |
-| Week 6 <br /> 11/07, 11/09    | **No class 11/7** Plotting and data visualization, Continued|   [dictionary reference](https://www.greenteapress.com/thinkpython2/html/thinkpython2012.html)     | HW 6 <br/> Due Fri 11/17 |
+| Week 6 <br />  11/09    | Plotting and data visualization, Week 2. No class Tu 11/07|   [dictionary reference](https://www.greenteapress.com/thinkpython2/html/thinkpython2012.html)     | HW 6 <br/> Due Fri 11/17 |
 |     |    |     |      |
 | Week 7 <br /> 11/14, 11/16    | Python Dictionaries |           | HW 7<br/> Due Fri 12/1 |
 |     |    |     |      |
