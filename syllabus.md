@@ -29,9 +29,7 @@ wildmant AT oregonstate.edu
 - Recitation Section: Wednesday 3-4:30, Cordley 2602
 - Additional Help/Office hours: Thursday 6:30-8pm on class Zoom (or by appointment)
 - Course Web site (Weekly calendar) <https://https://bds310.github.io/>
-- Canvas site (Problem sets) <https://canvas.oregonstate.edu/courses/1932480>
-- Zoom link: through Canvas
-
+- Canvas site (Access to Jupyter Hub, Problem sets, Gradescope etc, Etherpad, Zoom etc) <https://canvas.oregonstate.edu/courses/1932480>
 
 
 ### Course Description
@@ -51,8 +49,8 @@ Corequisite: MTH 251
 
 At the completion of this course, students will be able to:
 
-- Organize, visualize, and perform quantitative analysis of large biological data sets.
-- Apply data science principles to real-world data sets
+- Organize, visualize, and perform quantitative analysis of biological data
+- Apply data science principles to real-world data
 - Use Python as a tool for scientific computing
 - Navigate and use UNIX shell
 - Solve problems in groups via active collaboration
@@ -65,9 +63,8 @@ At the completion of this course, students will be able to:
 - Using Python on the Jupyter Notebook
 - Data visualization in Python
 - For loops, conditional statements, and functions
-- Analyzing tabular data with Pandas
 - Defensive Programming
-- Introduction to Bioinformativs with Python
+- Introduction to Bioinformatics with Python
 
 
 
