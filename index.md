@@ -37,7 +37,7 @@ davidson AT oregonstate.edu
 
 |Date                                  | Topics                             |  Relevant Reading                     | Assignment                                 |
 |:-----------------------------        |:--------------------------------- |:------------------------------------  |:----------------------                      |
-| Week 0 <br />09/28&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;| Course Goals and Philosophy <br />Introduction to Unix Shell and Python &nbsp; &nbsp; &nbsp;| [Jupyter Notebook](https://www.e-education.psu.edu/geog489/node/2204)&nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;  &nbsp; &nbsp;  | HW 0 <br/> Due Fri 10/06 &nbsp; &nbsp; |
+| Week 0 <br />09/28&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;| Course Goals and Philosophy <br />Introduction to Unix Shell and Python &nbsp; &nbsp; &nbsp;| [Jupyter Notebook](https://www.e-education.psu.edu/geog489/node/2204 target="_blank")&nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;  &nbsp; &nbsp;  | HW 0 <br/> Due Fri 10/06 &nbsp; &nbsp; |
 |        |                |         |            |
 | Week 1 <br /> 10/3, 10/5    | Working with the Unix Shell  | <br>[Unix Shell](https://swcarpentry.github.io/shell-novice/)<br>  | HW 1 <br/> Due Fri 10/13  |
 |     |    |     |      |
