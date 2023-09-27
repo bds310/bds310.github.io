@@ -47,7 +47,7 @@ davidson AT oregonstate.edu
 |     |    |     | |
 | Week 4 <br /> 10/24, 10/26    | Defining functions, Making Choices and conditional statements, While loops  |[defining functions](https://swcarpentry.github.io/python-novice-inflammation/08-func/index.html)   | HW 4 <br/> Due Fri 11/03 |
 |     |    |     |      |
-|  Week 5 <br /> 10/31, 11/02   | Plotting and data visualization. Week 1 |[matplotlib example plots](https://matplotlib.org/stable/gallery/index.html)<br> [axis handles](https://matplotlib.org/stable/api/axes_api.html)| **In-class Quiz** 10/31  HW 5 <br/> Due Fri 11/10 |
+|  Week 5 <br /> 10/31, 11/02   | Plotting and data visualization. Week 1 |[matplotlib example plots](https://matplotlib.org/stable/gallery/index.html)<br> [axis handles](https://matplotlib.org/stable/api/axes_api.html)| **In-class Quiz** 11/02  HW 5 <br/> Due Fri 11/10 |
 |     |    |     |      |
 | Week 6 <br />  11/09    | Plotting and data visualization, Week 2. No class Tu 11/07|   [dictionary reference](https://www.greenteapress.com/thinkpython2/html/thinkpython2012.html)     | HW 6 <br/> Due Fri 11/17 |
 |     |    |     |      |
