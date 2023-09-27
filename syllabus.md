@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Syllabus <br> Biological Data Sciences 310 <br> Computational Approaches to Biological Data <br> Fall 2022, Oregon State University
+title: Syllabus <br> Biological Data Sciences 310 <br> Computational Approaches to Biological Data <br> Fall 2023, Oregon State University
 ---
 
 ### Instructor
@@ -8,23 +8,29 @@ title: Syllabus <br> Biological Data Sciences 310 <br> Computational Approaches 
 Timothy Warren  
 tim.warren AT oregonstate.edu
 
-### Teaching Assistant
+### Teaching Assistants
 
-Michael Getz
-getzm AT oregonstate.edu
+- Nate Davidson (Head TA)<br>
+davidson AT oregonstate.edu<br>
 
-## Course Assistant
-Nate Davidson
-davidson AT oregonstate.edu
+- Vini Karumuru<br>
+karumurv AT oregonstate.edu     
+
+- Logan Rower <br>
+rowerl AT oregonstate.edu 
+
+- Tyler Wildman<br>
+wildmant AT oregonstate.edu
+
 
 ### Course Information
 
 - Class Meetings: Tuesday/Thursday 10-11:20am, ALS 4000
-- Recitation Section: Wednesday 3-4:30, ALS 4000
-- Additional Help/Office hours on zoom:Thursday TBD on Zoom, or by appointment
+- Recitation Section: Wednesday 3-4:30, Cordley 2602
+- Additional Help/Office hours: Thursday 6:30-8pm on class Zoom (or by appointment)
 - Course Web site (Weekly calendar) <https://https://bds310.github.io/>
-- Canvas site (Problem sets) <https://canvas.oregonstate.edu/courses/1876848>
-- Zoom link: TBD.
+- Canvas site (Problem sets) <https://canvas.oregonstate.edu/courses/1932480>
+- Zoom link: through Canvas
 
 
 
