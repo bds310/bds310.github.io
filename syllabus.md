@@ -78,6 +78,8 @@ At the completion of this course, students will be able to:
 
 There is no textbook for the class but references for recommended (and sometimes required) reading will be posted on the weekly calendar on course web site.
 
+### Ways to get help
+
 ### Homework Submission; Late Policy
 
 - All homework will be submitted via the DataScience Hub on Course Canvas Page. Launch the DataScience Hub from [Canvas](https://canvas.oregonstate.edu/courses/1932480/modules/items/23629917)). 
