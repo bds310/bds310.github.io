@@ -38,7 +38,7 @@ rowerl AT oregonstate.edu
 Tyler Wildman
 wildmant AT oregonstate.edu
 
-### [Syllabus&Course Policies](./syllabus.md) 
+### [Syllabus & Course Policies](./syllabus.md) 
 ### [Class notes](./lecture_notes/cheat_sheet.pdf)
 
 
