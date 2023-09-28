@@ -50,15 +50,15 @@ wildmant AT oregonstate.edu
 |        |                |         |            |
 | Week 1 <br /> 10/3, 10/5    | Working with the Unix Shell  | <br>[Unix Shell](https://swcarpentry.github.io/shell-novice/)<br>  | HW 1 <br/> Due Fri 10/13  |
 |     |    |     |      |
-| Week 2 <br /> 10/10, 10/12    | Python Fundamentals: Data types, Storing and accessing data, Plotting   | [Class curriculum](https://swcarpentry.github.io/python-novice-inflammation/)  <br>  [General Python Reference](https://docs.python.org/3/reference/index.html)<br> [Python in Jup. Notebooks](http://mbakker7.github.io/exploratory_computing_with_python/)                                       | HW 2 <br/> Due Fri 10/20|
+| Week 2 <br /> 10/10, 10/12    | Python Fundamentals: Data types, Storing and accessing data, Making Plots  | [Class curriculum](https://swcarpentry.github.io/python-novice-inflammation/)  <br>  [General Python Reference](https://docs.python.org/3/reference/index.html)<br> [Python in Jup. Notebooks](http://mbakker7.github.io/exploratory_computing_with_python/)                                       | HW 2 <br/> Due Fri 10/20|
 |     |    |     |      |
 | Week 3 <br /> 10/17, 10/19    |Repeating actions with for loops | [for loops](https://swcarpentry.github.io/python-novice-inflammation/05-loop/index.html)     | HW 3 <br/> Due Fri 10/27|
 |     |    |     | |
 | Week 4 <br /> 10/24, 10/26    | Defining functions, Making Choices and conditional statements, While loops  |[defining functions](https://swcarpentry.github.io/python-novice-inflammation/08-func/index.html)   | HW 4 <br/> Due Fri 11/03 |
 |     |    |     |      |
-|  Week 5 <br /> 10/31, 11/02   | Plotting and data visualization. Week 1 |[matplotlib example plots](https://matplotlib.org/stable/gallery/index.html)<br> [axis handles](https://matplotlib.org/stable/api/axes_api.html)|   HW 5 <br/> Due Fri 11/10 |
+|  Week 5 <br /> 10/31, 11/02   | Data Visualization|[matplotlib example plots](https://matplotlib.org/stable/gallery/index.html)<br> [axis handles](https://matplotlib.org/stable/api/axes_api.html)|   HW 5 <br/> Due Fri 11/10 |
 |     |    |     |      |
-| Week 6 <br />  11/07, 11/09    | Plotting and data visualization, Week 2. <br> *In-class quiz, Tu 11/07*|   [dictionary reference](https://www.greenteapress.com/thinkpython2/html/thinkpython2012.html)     | HW 6 <br/> Due Fri 11/17 |
+| Week 6 <br />  11/07, 11/09    | Data Visualization continued <br> *In-class quiz, Tu 11/07*|   [dictionary reference](https://www.greenteapress.com/thinkpython2/html/thinkpython2012.html)     | HW 6 <br/> Due Fri 11/17 |
 |     |    |     |      |
 | Week 7 <br /> 11/14, 11/16    | Python Dictionaries |           | HW 7<br/> Due Fri 12/1 |
 |     |    |     |      |
