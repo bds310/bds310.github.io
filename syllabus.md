@@ -79,6 +79,11 @@ At the completion of this course, students will be able to:
 There is no textbook for the class but references for recommended (and sometimes required) reading will be posted on the weekly calendar on course web site.
 
 ### Ways to get help
+- Attending recitation section
+- Thursday night Zoom office hours/Help
+- Post to Canvas [Canvas discussion forum](https://canvas.oregonstate.edu/courses/1932480/discussion_topics/10433544)
+- Class Discord Channel
+- Messaging all teaching staff (via Canvas or email)
 
 ### Homework Submission; Late Policy
 
