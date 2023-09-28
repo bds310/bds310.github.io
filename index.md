@@ -26,7 +26,10 @@ tim.warren AT oregonstate.edu
 
 #### Teaching Assistants
 
-Nate Davidson
+Nate Davidson (Head)
+davidson AT oregonstate.edu
+
+Vini Karumuru
 davidson AT oregonstate.edu
 
 ### [Syllabus](./syllabus.md) 
