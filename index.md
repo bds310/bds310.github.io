@@ -60,7 +60,7 @@ wildmant AT oregonstate.edu
 |     |    |     |      |
 | Week 6 <br />  11/07, 11/09    | Data Visualization continued <br> *In-class quiz, Tu 11/07*|   [dictionary reference](https://www.greenteapress.com/thinkpython2/html/thinkpython2012.html)     | HW 6 <br/> Due Fri 11/17 |
 |     |    |     |      |
-| Week 7 <br /> 11/14, 11/16    | Python Dictionaries |           | HW 7<br/> Due Fri 12/1 |
+| Week 7 <br /> 11/14, 11/16    | Python Dictionaries |  [dictionary reference](https://www.greenteapress.com/thinkpython2/html/thinkpython2012.html)            | HW 7<br/> Due Fri 12/1 |
 |     |    |     |      |
 | Week 8 <br /> *11/21*  | | [command-line Python scripts](https://swcarpentry.github.io/python-novice-inflammation/12-cmdline/index.html)                                               |  |
 |     |    |     |      |
