@@ -26,11 +26,17 @@ tim.warren AT oregonstate.edu
 
 #### Teaching Assistants
 
-Nate Davidson (Head)
+Nate Davidson (Head TA)
 davidson AT oregonstate.edu
 
 Vini Karumuru
-davidson AT oregonstate.edu
+karumurv AT oregonstate.edu
+
+Logan Rower
+rowerl AT oregonstate.edu
+
+Tyler Wildman
+wildmant AT oregonstate.edu
 
 ### [Syllabus](./syllabus.md) 
 ### [Class notes](./lecture_notes/cheat_sheet.pdf)
