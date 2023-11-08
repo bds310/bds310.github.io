@@ -56,9 +56,9 @@ wildmant AT oregonstate.edu
 |     |    |     | |
 | Week 4 <br /> 10/24, 10/26    | Defining functions, Making Choices and conditional statements, While loops  |[defining functions](https://swcarpentry.github.io/python-novice-inflammation/08-func/index.html)   | HW 4 <br/> Due Fri 11/03 |
 |     |    |     |      |
-|  Week 5 <br /> 10/31, 11/02   | Data Visualization|[matplotlib example plots](https://matplotlib.org/stable/gallery/index.html)<br> [axis handles](https://matplotlib.org/stable/api/axes_api.html)|   HW 5 <br/> Due Fri 11/10 |
+|  Week 5 <br /> 10/31, 11/02   | Data Visualization|[matplotlib example plots](https://matplotlib.org/stable/gallery/index.html)<br> [axis handles](https://matplotlib.org/stable/api/axes_api.html)|   HW 5 <br/> Due Fri 11/13 |
 |     |    |     |      |
-| Week 6 <br />  11/07, 11/09    | Data Visualization continued <br> *In-class quiz, Tu 11/07*|    | HW 6 <br/> Due Fri 11/17 |
+| Week 6 <br />  11/07, 11/09    | Data Visualization continued <br> *In-class quiz, Tu 11/07*|    | HW 6 <br/> Due Weds 11/22 |
 |     |    |     |      |
 | Week 7 <br /> 11/14, 11/16    | Python Dictionaries |  [dictionary reference](https://www.greenteapress.com/thinkpython2/html/thinkpython2012.html)            | HW 7<br/> Due Fri 12/1 |
 |     |    |     |      |
