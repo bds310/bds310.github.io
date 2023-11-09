@@ -60,9 +60,9 @@ wildmant AT oregonstate.edu
 |     |    |     |      |
 | Week 6 <br />  11/07, 11/09    | Data Visualization continued <br> *In-class quiz, Tu 11/07*|    | HW 6 <br/> Due Weds 11/22 |
 |     |    |     |      |
-| Week 7 <br /> 11/14, 11/16    | Data visualization, Python Dictionaries |  [dictionary reference](https://www.greenteapress.com/thinkpython2/html/thinkpython2012.html)            | HW 7<br/> Due Fri 12/1 |
+| Week 7 <br /> 11/14, 11/16    | Data visualization, Python Dictionaries |  [dictionary reference](https://www.greenteapress.com/thinkpython2/html/thinkpython2012.html)            | |
 |     |    |     |      |
-| Week 8 <br /> *11/21 (Zoom)*  | | [Dictionaries continued](https://www.greenteapress.com/thinkpython2/html/thinkpython2012.html)                                               |  |
+| Week 8 <br /> *11/21 (Zoom)*  |Dictionaries continued | [Dictionaries](https://www.greenteapress.com/thinkpython2/html/thinkpython2012.html)                                               | HW 7<br/> Due Fri 12/1  |
 |     |    |     |      |
 | Week 9 <br /> 11/28,11/30   |Writing Command-line Python scripts| [file input and output tutorial](https://datacarpentry.org/python-socialsci/05-processing-data-from-file/index.html) | HW 8 <br/> Due Tue 12/11|                              
 |     |    |     |      |
