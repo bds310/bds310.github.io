@@ -66,6 +66,6 @@ wildmant AT oregonstate.edu
 |     |    |     |      |
 | Week 9 <br /> 11/28,11/30   |Writing Command-line Python scripts| [file input and output tutorial](https://datacarpentry.org/python-socialsci/05-processing-data-from-file/index.html) | HW 8 <br/> Due Tue 12/11|                              
 |     |    |     |      |
-| Week 10 <br /> 12/05, 12/07   | Synthesis.<br> *In-class quiz, Tu 12/05* |                         | |
+| Week 10 <br /> 12/05, 12/07   | Synthesis.<br> |                         | |
 
 
