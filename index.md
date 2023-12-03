@@ -39,7 +39,7 @@ Tyler Wildman
 wildmant AT oregonstate.edu
 
 ### [Syllabus & Course Policies](./syllabus.md) 
-### [Class notes](./lecture_notes/cheat_sheet.pdf)
+### [Class notes](./lecture_notes/class_notes.pdf)
 
 
 ### Weekly Calendar  
