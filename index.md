@@ -19,7 +19,7 @@ title: BDS 310 - Foundations of Biological Data Science
 </div>   
 
 ### Instructor
-<img src="./assets/images/twheadshot_square.jpg" width="75" height="75" align='center'/>      
+<img src="./assets/images/twheadshot_square_cc.jpg" width="75" height="75" align='center'/>      
 
 Timothy Warren  
 tim.warren@oregonstate.edu         
