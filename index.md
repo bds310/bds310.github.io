@@ -22,15 +22,15 @@ title: BDS 310 - Foundations of Biological Data Science
 <img src="./assets/images/twheadshot_square_cc.jpg" width="75" height="75" align='center'/>      
 
 Timothy Warren  
-tim.warren@oregonstate.edu         
+tim.warren AT oregonstate.edu         
 
 ### Teaching Assistants
 
 Nate Davidson
-davidson@oregonstate.edu
+davidson AT oregonstate.edu
 
 Vini Karumuru
-karumurv@oregonstate.edu
+karumurv AT oregonstate.edu
 
 
 ### [Syllabus & Course Policies](./syllabus.md) 
