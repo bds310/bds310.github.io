@@ -3,7 +3,7 @@ layout: page
 title: BDS 310 - Foundations of Biological Data Science
 ---
 
-## Fall 2023
+## Fall 2024
 ### Lecture: Tu/Th 10-11:20, ALS 4000
 ### Recitation: Weds 3-4:30, Cordley 2602
 
