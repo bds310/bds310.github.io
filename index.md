@@ -35,6 +35,7 @@ karumurv AT oregonstate.edu
 
 ### [Syllabus & Course Policies](./syllabus.md) 
 ### [Class notes](./lecture_notes/class_notes.pdf)
+- ##### [Week0: Intro to Python variables](./class_notes/week0.html) 
 
 
 ### Weekly Calendar  
@@ -47,7 +48,7 @@ karumurv AT oregonstate.edu
 |     |    |     |      |
 | Week 2 <br /> 10/10, 10/12    | Python Fundamentals: Data types, Storing and accessing data, Making Plots  | [Class curriculum](https://swcarpentry.github.io/python-novice-inflammation/)  <br>  [General Python Reference](https://docs.python.org/3/reference/index.html)<br> [Python in Jup. Notebooks](http://mbakker7.github.io/exploratory_computing_with_python/)                                       | HW 2 <br/> Due Fri 10/20|
 |     |    |     |      |
-| Week 3 <br /> 10/17, 10/19    |Repeating actions with for loops | [for loops](https://swcarpentry.github.io/python-novice-inflammation/05-loop/index.html)     | HW 3 <br/> Due Fri 10/27|
+| Week 3 <br /> 10/17, 10/19    |Repeating actions with for loops | [for loops](https://swcarpentry.github.io/python-novice-inflammation/05-loop.html)     | HW 3 <br/> Due Fri 10/27|
 |     |    |     | |
 | Week 4 <br /> 10/24, 10/26    | Defining functions, Making Choices and conditional statements, While loops  |[defining functions](https://swcarpentry.github.io/python-novice-inflammation/08-func/index.html)   | HW 4 <br/> Due Fri 11/03 |
 |     |    |     |      |
