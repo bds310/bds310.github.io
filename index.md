@@ -32,7 +32,6 @@ tim.warren AT oregonstate.edu
 Nate Davidson  
 davidson AT oregonstate.edu
   
-<img src="./assets/images/vini_square.png" width="75" height="75" align='center'/>
 
 Vini Karumuru  
 karumurv AT oregonstate.edu
