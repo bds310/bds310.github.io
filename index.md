@@ -5,12 +5,14 @@ title: BDS 310 - Foundations of Biological Data Science
 
 ## Fall 2024
 ### Lecture: Tuesday/Thursday 10:00-11:20am, ALS 4000
-[campus map](https://map.oregonstate.edu/?building=ALS)
+[Campus map](https://map.oregonstate.edu/?building=ALS)
 
 
 ### Recitation: Wednesday/Thursday 3:00-4:30pm, Cordley 2602 
+  
+[Campus map](https://map.oregonstate.edu/?building=Cord)
 
-
+---
 
 ### Course Description
  <!---
@@ -23,6 +25,8 @@ title: BDS 310 - Foundations of Biological Data Science
 </div>   
 
 ### [Syllabus & Course Policies](./syllabus.md) 
+---
+  
 ### Instructor
 <img src="./assets/images/twheadshot_square_cc.jpg" width="75" height="75" align='center'/>      
 
@@ -41,10 +45,11 @@ Vini Karumuru
 karumurv AT oregonstate.edu
 
 
-
+---
 ### Class notes
 - ##### [Intro to Python](./class_notes/week0.html) 
 
+---
 
 ### Weekly Calendar  
 
