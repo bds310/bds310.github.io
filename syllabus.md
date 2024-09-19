@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Syllabus <br> Biological Data Sciences 310 <br> Computational Approaches to Biological Data <br> Fall 2023, Oregon State University
+title: Syllabus <br> Biological Data Sciences 310 <br> Computational Approaches to Biological Data <br> Fall 2024, Oregon State University
 ---
 
 ### Instructor
@@ -21,9 +21,9 @@ karumurv AT oregonstate.edu
 
 ### Course Information
 
-- Class Meetings: Tuesday/Thursday 10-11:20am, ALS 4000
-- Recitation Section: Wednesday 3-4:30, Cordley 2602
-- Additional Help/Office hours: Thursday 6:30-8pm on class Zoom (or by appointment)
+- Class Meetings: Tuesday/Thursday 10:00-11:20am, ALS 4000
+- Recitation Section: Wednesday/Thursday 3:00-4:30pm, Cordley 2602
+- Additional Help/Office hours: Thursday 6:30-8:00pm on class Zoom (or by appointment)
 - Course Web site (Weekly calendar) <https://https://bds310.github.io/>
 - Canvas site (Access to Jupyter Hub, Problem sets, Gradescope etc, Etherpad, Zoom etc) <https://canvas.oregonstate.edu/courses/1932480>
 
