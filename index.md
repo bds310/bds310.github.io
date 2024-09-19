@@ -38,8 +38,8 @@ karumurv AT oregonstate.edu
 
 
 ### [Syllabus & Course Policies](./syllabus.md) 
-### [Class notes](./lecture_notes/class_notes.pdf)
-- ##### [Week0: Intro to Python variables](./class_notes/week0.html) 
+### Class notes
+- ##### [Week0: Intro to Python](./class_notes/week0.html) 
 
 
 ### Weekly Calendar  
