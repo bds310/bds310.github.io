@@ -38,12 +38,12 @@ tim.warren AT oregonstate.edu
 
  <!-- First Row -->
 <div style="text-align: left;">
-  <div style="display: inline-block; text-align: left; margin-right: 20px;">
+  <div style="display: inline-block; text-align: left; margin-left: 0px;">
     <img src="./assets/images/nate_headshot.jpg" width="75" height="75" alt="Instructor 1"><br>
     <strong>Nate Davidson</strong><br>
     davidson AT oregonstate.edu
   </div>
-  <div style="display: inline-block; text-align: left; margin-right: 20px;">
+  <div style="display: inline-block; text-align: left; margin: 30px;">
     <img src="./assets/images/blank_avatar" width="75" height="75" alt="Vini Karumuru"><br>
     <strong>Vini Karumuru</strong><br>
     karumuruv AT oregonstate.edu
@@ -61,17 +61,17 @@ tim.warren AT oregonstate.edu
   <div style="display: inline-block; text-align: left; margin-right: 20px;">
     <img src="./assets/images/blank_avatar" width="75" height="75" alt="Instructor 4"><br>
     <strong>Instructor 4</strong><br>
-    instructor4 AT example.com
+    instructor4 AT oregonstate.edu
   </div>
   <div style="display: inline-block; text-align: left; margin-right: 20px;">
     <img src="./assets/images/blank_avatar" width="75" height="75" alt="Instructor 5"><br>
     <strong>Instructor 5</strong><br>
-    instructor5 AT example.com
+    instructor5 AT oregonstate.edu
   </div>
   <div style="display: inline-block; text-align: left;">
     <img src="./assets/images/blank_avatar" width="75" height="75" alt="Instructor 6"><br>
     <strong>Instructor 6</strong><br>
-    instructor6 AT example.com
+    instructor6 AT oregonstate.edu
   </div>
 </div>
 
