@@ -32,18 +32,48 @@ title: BDS 310 - Foundations of Biological Data Science
 
 Timothy Warren  
 tim.warren AT oregonstate.edu         
-  
+
+
 ### Teaching Assistants
-  
-<img src="./assets/images/nate_headshot.jpg" width="75" height="75" align='center'/>
-    
-Nate Davidson  
-davidson AT oregonstate.edu
-  
 
-Vini Karumuru  
-karumurv AT oregonstate.edu
+ <!-- First Row -->
+<div style="text-align: left;">
+  <div style="display: inline-block; text-align: left; margin-right: 20px;">
+    <img src="./assets/images/nate_headshot.jpg" width="75" height="75" alt="Instructor 1"><br>
+    <strong>Nate Davidson</strong><br>
+    davidson AT oregonstate.edu
+  </div>
+  <div style="display: inline-block; text-align: left; margin-right: 20px;">
+    <img src="./assets/images/blank_avatar" width="75" height="75" alt="Vini Karumuru"><br>
+    <strong>Vini Karumuru</strong><br>
+    karumuruv AT oregonstate.edu
+  </div>
+  <div style="display: inline-block; text-align: left;">
+    <img src="./assets/images/blank_avatar" width="75" height="75" alt="Divi"><br>
+    <strong>Divyansh</strong><br>
+    divyans AT oregonstate.edu
+  </div>
+</div>
 
+
+<div style="text-align: left; margin-top: 20px;">
+  <!-- Second Row -->
+  <div style="display: inline-block; text-align: left; margin-right: 20px;">
+    <img src="./assets/images/blank_avatar" width="75" height="75" alt="Instructor 4"><br>
+    <strong>Instructor 4</strong><br>
+    instructor4 AT example.com
+  </div>
+  <div style="display: inline-block; text-align: left; margin-right: 20px;">
+    <img src="./assets/images/blank_avatar" width="75" height="75" alt="Instructor 5"><br>
+    <strong>Instructor 5</strong><br>
+    instructor5 AT example.com
+  </div>
+  <div style="display: inline-block; text-align: left;">
+    <img src="./assets/images/blank_avatar" width="75" height="75" alt="Instructor 6"><br>
+    <strong>Instructor 6</strong><br>
+    instructor6 AT example.com
+  </div>
+</div>
 
 ---
 ### Class notes
