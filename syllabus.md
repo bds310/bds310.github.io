@@ -24,8 +24,8 @@ karumurv AT oregonstate.edu
 - Class Meetings: Tuesday/Thursday 10:00-11:20am, ALS 4000
 - Recitation Section: Wednesday/Thursday 3:00-4:30pm, Cordley 2602
 - Additional Help/Office hours: Thursday 6:30-8:00pm on class Zoom (or by appointment)
-- Course Web site (Weekly calendar) <https://https://bds310.github.io/>
-- Canvas site (Access to Jupyter Hub, Problem sets, Gradescope etc, Etherpad, Zoom etc) <https://canvas.oregonstate.edu/courses/1932480>
+- Course Web site (Weekly calendar) <https://bds310.github.io/>
+- Canvas site (Access to Jupyter Hub, Problem sets, Gradescope etc, Etherpad, Zoom etc) <https://canvas.oregonstate.edu/courses/1974493>
 
 
 ### Course Description
