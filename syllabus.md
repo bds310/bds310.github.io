@@ -20,8 +20,8 @@ maharjaa AT oregonstate.edu
 schiffan AT oregonstate.edu<br>
 
 
-- Vini Karumuru<br>
-karumurv AT oregonstate.edu
+- Divyansh<br>
+divyans AT oregonstate.edu
 
 - Vini Karumuru<br>
 karumurv AT oregonstate.edu     
@@ -32,8 +32,8 @@ karumurv AT oregonstate.edu
 ### Course Information
 
 - Class Meetings: Tuesday/Thursday 10:00-11:20am, ALS 4000
-- Recitation Section: Wednesday/Thursday 3:00-4:30pm, Cordley 2602
-- Additional Help/Office hours: Thursday 6:30-8:00pm on class Zoom (or by appointment)
+- Recitation Sections: Wednesday 1:00-2:30, Weds 3:00-4:30pm, Cordley 2602
+- Additional Help/Office hours: Thursday 6:00-8:00pm on class Zoom (or by appointment)
 - Course Web site (Weekly calendar) <https://bds310.github.io/>
 - Canvas site (Access to Jupyter Hub, Problem sets, Gradescope etc, Etherpad, Zoom etc) <https://canvas.oregonstate.edu/courses/1974493>
 
@@ -44,12 +44,9 @@ Develops competency in scientific computing and data analysis with broad applica
 powerful tool for visualizing and analyzing data and for performing reproducible research. Focuses on real-world datasets originating across the life sciences. Provides a foundation for future work in data-intensive disciplines.
 
 
-### Prerequisites and/or Corequisites
+### Prerequisites 
 
 No prerequisite<br>
-Corequisite: MTH 251
-
-
 
 ### Course Objectives
 
