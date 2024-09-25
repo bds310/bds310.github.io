@@ -96,13 +96,13 @@ tim.warren AT oregonstate.edu
 |     |    |     | |
 | Week 4 <br /> 10/22, 10/24    | Defining functions, Making Choices and conditional statements, While loops  |[defining functions](https://swcarpentry.github.io/python-novice-inflammation/08-func/index.html)   | HW 4 <br/> Due Fri 11/01 |
 |     |    |     |      |
-|  Week 5 <br /> 10/29, 10/31   | Data Visualization|[matplotlib example plots](https://matplotlib.org/stable/gallery/index.html)<br> <br> *In-class quiz, Th 10/31*[axis handles](https://matplotlib.org/stable/api/axes_api.html)|   HW 5 <br/> Due Fri 11/08 |
+|  Week 5 <br /> 10/29, 10/31   | Data Visualization|[matplotlib example plots](https://matplotlib.org/stable/gallery/index.html)<br> [axis handles](https://matplotlib.org/stable/api/axes_api.html)<br> *In-class quiz, Th 10/31*|   HW 5 <br/> Due Fri 11/08 |
 |     |    |     |      |
 | Week 6 <br />  11/05, 11/07    | Data Visualization continued |    | HW 6 <br/> Due Fri 11/15 |
 |     |    |     |      |
 | Week 7 <br /> 11/12, 11/14    | Data visualization, Python Dictionaries |  [dictionary reference](https://www.greenteapress.com/thinkpython2/html/thinkpython2012.html)            |HW 7 <br/> Due Tue 11/26|
 |     |    |     |      |
-| Week 8 <br /> 11/19, 11/21  |Dictionaries continued | [Dictionaries](https://www.greenteapress.com/thinkpython2/html/thinkpython2012.html)                                               | HW 7<br/> Due Mon 12/02  |
+| Week 8 <br /> 11/19, 11/21  |Dictionaries continued | [Dictionaries](https://www.greenteapress.com/thinkpython2/html/thinkpython2012.html)      <br> *In-class quiz, Th 11/21*                                         | HW 7<br/> Due Mon 12/02  |
 |     |    |     |      |
 | Week 9 <br /> 11/26    |Writing Command-line Python scripts| [file input and output tutorial](https://datacarpentry.org/python-socialsci/05-processing-data-from-file/index.html) | |                              
 |     |    |     |      |
