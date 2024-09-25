@@ -55,16 +55,8 @@ tim.warren AT oregonstate.edu
    schiffan AT oregonstate.edu
   </div>
   
-  <div style="display: inline-block; text-align: left; margin: 30px;">
-    <img src="./assets/images/blank_avatar" width="75" height="75" alt="Vini Karumuru"><br>
-    <strong>Vini Karumuru</strong><br>
-    karumuruv AT oregonstate.edu
-  </div>
-  <div style="display: inline-block; text-align: left;">
-    <img src="./assets/images/blank_avatar" width="75" height="75" alt="Divi"><br>
-    <strong>Divyansh</strong><br>
-    divyans AT oregonstate.edu
-  </div>
+  
+  
 </div>
 
 
