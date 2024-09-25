@@ -34,15 +34,27 @@ Timothy Warren
 tim.warren AT oregonstate.edu         
 
 
-### Teaching Assistants
+### Course Assistants
 
  <!-- First Row -->
 <div style="text-align: left;">
   <div style="display: inline-block; text-align: left; margin-left: 0px;">
     <img src="./assets/images/nate_headshot.jpg" width="75" height="75" alt="Instructor 1"><br>
-    <strong>Nate Davidson</strong><br>
+    <strong>Nate Davidson (Head CA)</strong><br>
     davidson AT oregonstate.edu
   </div>
+<div style="display: inline-block; text-align: left; margin-right: 20px;">
+    <img src="./assets/images/blank_avatar" width="75" height="75" alt="Instructor 4"><br>
+    <strong>Alex Maharjan</strong><br>
+    maharjaa AT oregonstate.edu
+  </div>
+
+  <div style="display: inline-block; text-align: left; margin-right: 20px;">
+    <img src="./assets/images/blank_avatar" width="75" height="75" alt="Instructor 4"><br>
+    <strong>Andrea Schiffer </strong><br>
+   schiffan AT oregonstate.edu
+  </div>
+  
   <div style="display: inline-block; text-align: left; margin: 30px;">
     <img src="./assets/images/blank_avatar" width="75" height="75" alt="Vini Karumuru"><br>
     <strong>Vini Karumuru</strong><br>
@@ -58,21 +70,18 @@ tim.warren AT oregonstate.edu
 
 <div style="text-align: left; margin-top: 20px;">
   <!-- Second Row -->
-  <div style="display: inline-block; text-align: left; margin-right: 20px;">
-    <img src="./assets/images/blank_avatar" width="75" height="75" alt="Instructor 4"><br>
-    <strong>Instructor 4</strong><br>
-    instructor4 AT oregonstate.edu
-  </div>
-  <div style="display: inline-block; text-align: left; margin-right: 20px;">
-    <img src="./assets/images/blank_avatar" width="75" height="75" alt="Instructor 5"><br>
-    <strong>Instructor 5</strong><br>
-    instructor5 AT oregonstate.edu
-  </div>
   <div style="display: inline-block; text-align: left;">
-    <img src="./assets/images/blank_avatar" width="75" height="75" alt="Instructor 6"><br>
-    <strong>Instructor 6</strong><br>
-    instructor6 AT oregonstate.edu
+    <img src="./assets/images/blank_avatar" width="75" height="75" alt="Divi"><br>
+    <strong>Divyansh</strong><br>
+    divyans AT oregonstate.edu
   </div>
+  <div style="display: inline-block; text-align: left; margin: 30px;">
+    <img src="./assets/images/blank_avatar" width="75" height="75" alt="Vini Karumuru"><br>
+    <strong>Vini Karumuru</strong><br>
+    karumuruv AT oregonstate.edu
+  </div>
+  
+  
 </div>
 
 ---
