@@ -8,10 +8,20 @@ title: Syllabus <br> Biological Data Sciences 310 <br> Computational Approaches 
 Timothy Warren  
 tim.warren AT oregonstate.edu
 
-### Teaching Assistants
+### Course Assistants
 
-- Nate Davidson<br>
+- Nate Davidson (Head CA)<br>
 davidson AT oregonstate.edu<br>
+
+- Alex Maharjan<br>
+maharjaa AT oregonstate.edu
+
+- Andrea Schiffer<br>
+schiffan AT oregonstate.edu<br>
+
+
+- Vini Karumuru<br>
+karumurv AT oregonstate.edu
 
 - Vini Karumuru<br>
 karumurv AT oregonstate.edu     
