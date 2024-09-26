@@ -40,16 +40,16 @@ tim.warren AT oregonstate.edu
 <div style="text-align: left;">
   <div style="display: inline-block; text-align: left; margin-left: 0px;">
     <img src="./assets/images/nate_headshot.jpg" width="75" height="75" alt="Instructor 1"><br>
-    <strong>Nate Davidson (Head CA)</strong><br>
+    <strong>Nate Davidson (Head TA)</strong><br>
     davidson AT oregonstate.edu
   </div>
-<div style="display: inline-block; text-align: left; margin-right: 20px;">
+<div style="display: inline-block; text-align: left; margin-left: 20px;">
     <img src="./assets/images/blank_avatar" width="75" height="75" alt="Instructor 4"><br>
     <strong>Alex Maharjan</strong><br>
     maharjaa AT oregonstate.edu
   </div>
 
-  <div style="display: inline-block; text-align: left; margin-right: 20px;">
+  <div style="display: inline-block; text-align: left; margin-top: 20px;">
     <img src="./assets/images/blank_avatar" width="75" height="75" alt="Instructor 4"><br>
     <strong>Andrea Schiffer </strong><br>
    schiffan AT oregonstate.edu
@@ -60,7 +60,7 @@ tim.warren AT oregonstate.edu
 </div>
 
 
-<div style="text-align: left; margin-top: 20px;">
+<div style="text-align: left; margin-top: 0px;">
   <!-- Second Row -->
   <div style="display: inline-block; text-align: left;">
     <img src="./assets/images/blank_avatar" width="75" height="75" alt="Divi"><br>
@@ -68,7 +68,7 @@ tim.warren AT oregonstate.edu
     divyans AT oregonstate.edu
   </div>
   <div style="display: inline-block; text-align: left; margin: 30px;">
-    <img src="./assets/images/blank_avatar" width="75" height="75" alt="Vini Karumuru"><br>
+    <img src="./assets/images/IMG_5983.JPG" width="75" height="75" alt="Vini Karumuru"><br>
     <strong>Vini Karumuru</strong><br>
     karumuruv AT oregonstate.edu
   </div>
