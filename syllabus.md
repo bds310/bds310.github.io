@@ -90,10 +90,9 @@ There is no textbook for the class but references for recommended (and sometimes
 
 ### Homework Submission; Late Policy
 
-- All homework will be submitted via the DataScience Hub on Course Canvas Page. Launch the DataScience Hub from [Canvas](https://canvas.oregonstate.edu/courses/1932480/modules/items/23629917)). 
-- For most assignments, your homework will be in `/home/hub_data_share/hw` directory. Homework will be posted one week before assignment due (typically Fridays at 11:59 pm.) To complete homework, copy the specific assignment folder (e.g. `hw01` to your personal directory (e.g. since my username is `warrenti`, I would put `hw01` in  `/home/warrenti/hw`)) 
-- We will use Gradescope to submit assignments. Be sure to save your notebook - preserving the original name (e.g. `hw01.ipynb`), then run the last grader.export() cell, which will produce a zip file, which you can download onto your local machine and then upload at appropriate location on Gradescope, which can be accessed via Canvas, or at this [link](https://www.gradescope.com/courses/620384)
-- Each student will receive two grace periods to submit homework up to 72 hours late (e.g. assignment due Friday at 11:59 would be due Monday.) Any other late homework submissions, or submissions beyond 72 hours after deadline, will be considered at instructor discretion and receive 50% deduction.
+- All homework will be submitted via the DataScience Hub on Course Canvas Page. Launch the DataScience Hub from [Canvas](https://canvas.oregonstate.edu/courses/1974493/modules/items/24694627). 
+- For most assignments, your homework will be posted in the `/home/hub_data_share/hw` directory. Homework will be posted one week before assignment due (typically Fridays at 11:59 pm.) To complete homework, copy the specific assignment folder (e.g. `hw01` to your personal directory (e.g. since my username is `warrenti`, I would put `hw01` in  `/home/warrenti/hw`)). Work on it in that location.
+- Assignment submission is on Gradescope. Be sure to save your notebook - preserving the original name (e.g. `hw01.ipynb`), then run the last grader.export() cell, which produces a .zip file. Download this onto your local machine and then upload on Gradescope. Gradescope can be accessed via Canvas, or at this [link](https://www.gradescope.com/courses/879117). Each student will receive two grace periods to submit homework up to 72 hours late (e.g. assignment due Friday at 11:59 would be due Monday at 11:59.) Any other late homework submissions, or submissions beyond 72 hours after deadline, will be considered at instructor discretion and receive 50% deduction.
 
 ### Course Code of Conduct (Adopted from [Carpentries](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html))
 
@@ -109,7 +108,7 @@ We all should strive to foster a welcoming, supportive environment. This involve
 
 ### Collaboration and Academic Dishonesty
 
-I encourage (and will sometimes require you) to work with others on homework problems. But the work that you submit for the homework and final project must be your individual solution, implemented by you (never directly copied from other students or other sources). Rather than copying someone else's work, please ask for help!
+I encourage (and will sometimes require you) to work with others on homework problems. But the work that you submit for the homework and final project must be your individual solution, implemented by you (never directly copied from other students or other sources). Rather than copying someone else's work, please ask for help! AI-based reference sources should be considered similarly to another student. It's OK to consult them for advice but not to copy a solution. You should be able to reproduce the work on your own after submitting it. 
 
 ### Statement Regarding Students with Disabilities
 
@@ -123,14 +122,14 @@ Oregon State University strives to respect all religious practices. If you have 
 
 ### Resources for Support
 
-These are trying times. If you encounter difficulties and need assistance, it’s important to reach out. Consider discussing the situation with an instructor or academic advisor. Learn about resources that assist with wellness and academic success at <https://counseling.oregonstate.edu/reach-out-success>. If you are in immediate crisis, please contact the Crisis Text Line by texting OREGON to 741-741 or call the National Suicide Prevention Lifeline at 1-800-273-TALK (8255).
+If you encounter difficulties and need assistance, it’s important to reach out. Consider discussing the situation with an instructor or academic advisor. Learn about resources that assist with wellness and academic success at <https://counseling.oregonstate.edu/reach-out-success>. If you are in immediate crisis, please contact the Crisis Text Line by texting OREGON to 741-741 or call the National Suicide Prevention Lifeline at 1-800-273-TALK (8255).
 
 
 ### Opportunities for Student Evaluation
 
 The online Student Evaluation of Teaching system opens to students the Wednesday of week 8 and closes the Sunday before Finals Week. Students will receive notification, instructions and the link through their ONID. They may also log into the system via Online Services. Course evaluation results are crucial as they help improve courses and the learning experience of future students. Responses are anonymous (unless a student chooses to “sign” their comments agreeing to relinquish anonymity) and unavailable to instructors until after grades have been posted. The results of scaled questions and signed comments go to both the instructor and their unit head/supervisor. Anonymous (unsigned) comments go to the instructor only. 
 
-Additionally, there will be midterm course evaluation at week 5.
+Additionally, there will be a midterm course evaluation at the end of week 5.
 
 
 ### Attribution
