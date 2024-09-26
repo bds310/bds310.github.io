@@ -8,7 +8,7 @@ title: BDS 310 - Foundations of Biological Data Science
 [Campus map](https://map.oregonstate.edu/?building=ALS)
 
 
-### Recitation: Wednesday/Thursday 3:00-4:30pm, Cordley 2602 
+### Recitation Sections: (1) Wednesday 1-2:30, (2) 3:00-4:30pm, Cordley 2602 
   
 [Campus map](https://map.oregonstate.edu/?building=Cord)
 
