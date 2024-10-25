@@ -81,6 +81,8 @@ tim.warren AT oregonstate.edu
 - ##### [Intro to Python](./class_notes/week0.html) 
 - ##### [Intro to Unix](./class_notes/week1.html) 
 - ##### [Python data types and indexing](./class_notes/week2.html) 
+- ##### [For loops, appending to lists, and numpy commands](./class_notes/week3.html) 
+
 
 
 
