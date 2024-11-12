@@ -81,6 +81,8 @@ tim.warren AT oregonstate.edu
 - ##### [Intro to Python](./class_notes/week0.html) 
 - ##### [Intro to Unix](./class_notes/week1.html) 
 - ##### [Python data types and indexing](./class_notes/week2.html) 
+- ##### [Function, nested loops, logic operators, if statements, in statements](./class_notes/week4.html) 
+
 
 
 
