@@ -83,6 +83,12 @@ tim.warren AT oregonstate.edu
 - ##### [Python data types and indexing](./class_notes/week2.html) 
 - ##### [For loops, appending to lists, and numpy commands](./class_notes/week3.html) 
 - ##### [Function, nested loops, logic operators, if statements, in statements](./class_notes/week4.html) 
+- ##### [Plotting with axes (labels and legends), np.diff, while loops](./class_notes/week5.html) 
+- ##### [Subsetting arrays with conditionals, using np.argmax, np.argmin and np.argsort, creating subplots](./class_notes/week6.html) 
+- ##### [Intro to dictionaries](./class_notes/week7.html) 
+
+
+
 
 
 
