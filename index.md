@@ -64,8 +64,8 @@ tim.warren AT oregonstate.edu
   <!-- Second Row -->
   <div style="display: inline-block; text-align: left;">
     <img src="./assets/images/blank_avatar" width="75" height="75" alt="Divi"><br>
-    <strong>Divyansh</strong><br>
-    divyans AT oregonstate.edu
+    <strong>Sarah Hoekema</strong><br>
+    hoekemas AT oregonstate.edu
   </div>
   <div style="display: inline-block; text-align: left; margin: 30px;">
     <img src="./assets/images/IMG_5983.JPG" width="75" height="75" alt="Vini Karumuru"><br>
