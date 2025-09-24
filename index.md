@@ -110,7 +110,7 @@ tim.warren AT oregonstate.edu
 |     |    |     | |
 | Week 4 <br /> 10/21, 10/23    | Making Choices and conditional statements  |   | **Quiz 1: 10/30** |
 |     |    |     |      |
-|  Week 5 <br /> 10/28, 10/30 **Quiz**   | While Loops |<br> *In-class quiz, Th 10/31*|   HW 4 <br/> Due Fri 11/07 |
+|  Week 5 <br /> 10/28, 10/30 **Quiz**   | While Loops |<br> *In-class quiz, Th 10/30*|   HW 4 <br/> Due Fri 11/07 |
 |     |    |     |      |
 | Week 6 <br />  11/05, 11/07    | Functions |  [defining functions](https://swcarpentry.github.io/python-novice-inflammation/08-func/index.html)  | HW 5 <br/> Due Fri 11/14 |
 |     |    |     |      |
