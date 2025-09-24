@@ -3,7 +3,7 @@ layout: page
 title: BDS 310 - Foundations of Biological Data Science
 ---
 
-## Fall 2024
+## Fall 2025
 ### Lecture: Tuesday/Thursday 10:00-11:20am, ALS 4000
 [Campus map](https://map.oregonstate.edu/?building=ALS)
 
@@ -39,20 +39,20 @@ tim.warren AT oregonstate.edu
  <!-- First Row -->
 <div style="text-align: left;">
   <div style="display: inline-block; text-align: left; margin-left: 0px;">
-    <img src="./assets/images/nate_headshot.jpg" width="75" height="75" alt="Instructor 1"><br>
-    <strong>Nate Davidson (Head TA)</strong><br>
+    <img src="./assets/images/blank_avatar" width="75" height="75" alt="Instructor 1"><br>
+    <strong>Andrea Schiffer (Head CA)</strong><br>
     davidson AT oregonstate.edu
   </div>
 <div style="display: inline-block; text-align: left; margin-left: 20px;">
     <img src="./assets/images/blank_avatar" width="75" height="75" alt="Instructor 4"><br>
-    <strong>Alex Maharjan</strong><br>
-    maharjaa AT oregonstate.edu
+    <strong>Steven Cai</strong><br>
+    caist AT oregonstate.edu
   </div>
 
   <div style="display: inline-block; text-align: left; margin-top: 20px;">
     <img src="./assets/images/blank_avatar" width="75" height="75" alt="Instructor 4"><br>
-    <strong>Andrea Schiffer </strong><br>
-   schiffan AT oregonstate.edu
+    <strong>Sarah Hoekema </strong><br>
+   hoekemas AT oregonstate.edu
   </div>
   
   
@@ -64,13 +64,13 @@ tim.warren AT oregonstate.edu
   <!-- Second Row -->
   <div style="display: inline-block; text-align: left;">
     <img src="./assets/images/blank_avatar" width="75" height="75" alt="Divi"><br>
-    <strong>Sarah Hoekema</strong><br>
-    hoekemas AT oregonstate.edu
+    <strong>Morgan Miller</strong><br>
+    morgan.miller AT oregonstate.edu
   </div>
   <div style="display: inline-block; text-align: left; margin: 30px;">
-    <img src="./assets/images/IMG_5983.JPG" width="75" height="75" alt="Vini Karumuru"><br>
-    <strong>Vini Karumuru</strong><br>
-    karumuruv AT oregonstate.edu
+    <img src="./assets/images/blank_avatar" width="75" height="75" alt="Vini Karumuru"><br>
+    <strong>Imre Rist</strong><br>
+    risti AT oregonstate.edu
   </div>
   
   
@@ -79,6 +79,7 @@ tim.warren AT oregonstate.edu
 ---
 ### Class notes
 - ##### [Intro to Python](./class_notes/week0.html) 
+ <!---
 - ##### [Intro to Unix](./class_notes/week1.html) 
 - ##### [Python data types and indexing](./class_notes/week2.html) 
 - ##### [For loops, appending to lists, and numpy commands](./class_notes/week3.html) 
@@ -87,7 +88,7 @@ tim.warren AT oregonstate.edu
 - ##### [Subsetting arrays with conditionals, using np.argmax, np.argmin and np.argsort, creating subplots](./class_notes/week6.html) 
 - ##### [Intro to dictionaries](./class_notes/week7.html) 
 
-
+-->
 
 
 
@@ -99,26 +100,26 @@ tim.warren AT oregonstate.edu
 
 |Date                                  | Topics                             |  Relevant Reading                     | Assignment                                 |
 |:-----------------------------        |:--------------------------------- |:------------------------------------  |:----------------------                      |
-| Week 0 <br />09/26&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;| Course Goals and Philosophy <br />Introduction to Unix Shell and Python &nbsp; &nbsp; &nbsp;| [Jupyter Notebook](https://www.e-education.psu.edu/geog489/node/2204)&nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;  &nbsp; &nbsp;  | HW 0 <br/> Due Fri 10/04 &nbsp; &nbsp; |
+| Week 0 <br />09/25&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;| Course Goals and Philosophy <br />Introduction to Unix Shell and Python &nbsp; &nbsp; &nbsp;| [Jupyter Notebook](https://www.e-education.psu.edu/geog489/node/2204)&nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;  &nbsp; &nbsp;  | HW 0 <br/> Due Fri 10/03 &nbsp; &nbsp; |
 |        |                |         |            |
-| Week 1 <br /> 10/01, 10/03    | Working with the Unix Shell  | <br>[Unix Shell](https://swcarpentry.github.io/shell-novice/)<br>  | HW 1 <br/> Due Fri 10/11  |
+| Week 1 <br /> 9/30, 10/02    | Working with the Unix Shell  | <br>[Unix Shell](https://swcarpentry.github.io/shell-novice/)<br>  | HW 1 <br/> Due Fri 10/10  |
 |     |    |     |      |
-| Week 2 <br /> 10/08, 10/10    | Python Fundamentals: Data types, Storing and accessing data, Making Plots  | [Class curriculum](https://swcarpentry.github.io/python-novice-inflammation/)  <br>  [General Python Reference](https://docs.python.org/3/reference/index.html)<br> [Python in Jup. Notebooks](http://mbakker7.github.io/exploratory_computing_with_python/)                                       | HW 2 <br/> Due Fri 10/18|
+| Week 2 <br /> 10/07, 10/09    | Python Fundamentals: Data types, Storing and accessing data, Making Plots  | [Class curriculum](https://swcarpentry.github.io/python-novice-inflammation/)  <br>  [General Python Reference](https://docs.python.org/3/reference/index.html)<br> [Python in Jup. Notebooks](http://mbakker7.github.io/exploratory_computing_with_python/)                                       | HW 2 <br/> Due Fri 10/17|
 |     |    |     |      |
-| Week 3 <br /> 10/15, 10/17    |Repeating actions with for loops | [for loops](https://swcarpentry.github.io/python-novice-inflammation/05-loop.html)     | HW 3 <br/> Due Fri 10/25|
+| Week 3 <br /> 10/14, 10/16    |Repeating actions with for loops | [for loops](https://swcarpentry.github.io/python-novice-inflammation/05-loop.html)     | HW 3 <br/> Due Fri 10/24|
 |     |    |     | |
-| Week 4 <br /> 10/22, 10/24    | Making Choices and conditional statements  |   | HW 4 <br/> Due Fri 11/01 |
+| Week 4 <br /> 10/21, 10/23    | Making Choices and conditional statements  |   | **Quiz 1: 10/30** |
 |     |    |     |      |
-|  Week 5 <br /> 10/29, 10/31   | While Loops |<br> *In-class quiz, Th 10/31*|   HW 5 <br/> Due Fri 11/08 |
+|  Week 5 <br /> 10/28, 10/30 **Quiz**   | While Loops |<br> *In-class quiz, Th 10/31*|   HW 4 <br/> Due Fri 11/07 |
 |     |    |     |      |
-| Week 6 <br />  11/05, 11/07    | Functions |  [defining functions](https://swcarpentry.github.io/python-novice-inflammation/08-func/index.html)  | HW 6 <br/> Due Fri 11/15 |
+| Week 6 <br />  11/05, 11/07    | Functions |  [defining functions](https://swcarpentry.github.io/python-novice-inflammation/08-func/index.html)  | HW 5 <br/> Due Fri 11/14 |
 |     |    |     |      |
-| Week 7 <br /> 11/12, 11/14    | Dictionaries |  [dictionary reference](https://www.greenteapress.com/thinkpython2/html/thinkpython2012.html)            |HW 7 <br/> Due Tue 11/26|
+| Week 7 <br /> Th 11/13    | Dictionaries |  [dictionary reference](https://www.greenteapress.com/thinkpython2/html/thinkpython2012.html)            |Quiz 2 11/26|
 |     |    |     |      |
-| Week 8 <br /> 11/19, 11/21  |Data visualization & Quiz | [matplotlib example plots](https://matplotlib.org/stable/gallery/index.html)<br> [axis handles](https://matplotlib.org/stable/api/axes_api.html)    <br> *In-class quiz, Th 11/21*                                         | HW 7<br/> Due Mon 12/02  |
+| Week 8 <br /> 11/18, 11/20  |Data visualization & Quiz | [matplotlib example plots](https://matplotlib.org/stable/gallery/index.html)<br> [axis handles](https://matplotlib.org/stable/api/axes_api.html)    <br> *In-class quiz, Th 11/20*                                         |   |
 |     |    |     |      |
-| Week 9 <br /> 11/26    |Data Visualizion continued| [file input and output tutorial](https://datacarpentry.org/python-socialsci/05-processing-data-from-file/index.html) | |                              
+| Week 9 <br /> Tu 11/25    |Data Visualizion continued| [file input and output tutorial](https://datacarpentry.org/python-socialsci/05-processing-data-from-file/index.html) | HW 6 <br/> Due Weds 12/04|                              
 |     |    |     |      |
-| Week 10 <br /> 12/03, 12/05   | Synthesis. Command-Line Scripts<br> |                         |HW 8 <br/> Due Tue 12/10 |
+| Week 10 <br /> 12/03, 12/05   | Synthesis. Command-Line Scripts<br> |                         |HW 7 <br/> Due Weds 12/11 |
 
 
