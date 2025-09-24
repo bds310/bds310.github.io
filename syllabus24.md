@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Syllabus <br> Biological Data Sciences 310 <br> Computational Approaches to Biological Data <br> Fall 2025, Oregon State University
+title: Syllabus <br> Biological Data Sciences 310 <br> Computational Approaches to Biological Data <br> Fall 2024, Oregon State University
 ---
 
 ### Instructor
@@ -10,22 +10,21 @@ tim.warren AT oregonstate.edu
 
 ### Course Assistants
 
-- Andrea Schiffer (Head CA)<br>
+- Nate Davidson (Head CA)<br>
+davidson AT oregonstate.edu<br>
+
+- Alex Maharjan<br>
+maharjaa AT oregonstate.edu
+
+- Andrea Schiffer<br>
 schiffan AT oregonstate.edu<br>
 
-- Steven Cai<br>
-caist AT oregonstate.edu
 
-- Sarah Hoekema<br>
-hoekemas AT oregonstate.edu
+- Divyansh<br>
+divyans AT oregonstate.edu
 
-- Morgan Miller<br>
-morgan.miller AT oregonstate.edu    
-
-- Imre Rist<br>
-risti AT oregonstate.edu<br>
-
- 
+- Vini Karumuru<br>
+karumurv AT oregonstate.edu     
 
 
 
@@ -34,9 +33,9 @@ risti AT oregonstate.edu<br>
 
 - Class Meetings: Tuesday/Thursday 10:00-11:20am, ALS 4000
 - Recitation Sections: Wednesday 1:00-2:30, Weds 3:00-4:30pm, Cordley 2602
-- Additional Help/Office hours: Thursday 6:00-7:30pm on class Zoom (or by appointment)
+- Additional Help/Office hours: Thursday 6:00-8:00pm on class Zoom (or by appointment)
 - Course Web site (Weekly calendar) <https://bds310.github.io/>
-- Canvas site (Access to Jupyter Hub, Problem sets, Gradescope etc, Etherpad, Zoom etc) <https://canvas.oregonstate.edu/courses/2016349>
+- Canvas site (Access to Jupyter Hub, Problem sets, Gradescope etc, Etherpad, Zoom etc) <https://canvas.oregonstate.edu/courses/1974493>
 
 
 ### Course Description
@@ -67,7 +66,6 @@ At the completion of this course, students will be able to:
 - Using Python on the Jupyter Notebook
 - Data visualization in Python
 - For loops, conditional statements, and functions
-- Dictionaries
 - Defensive Programming
 - Introduction to Bioinformatics with Python
 
@@ -75,49 +73,26 @@ At the completion of this course, students will be able to:
 
 ### Grading
 
-- 70% Average of 7 problem sets (each normalized to count equally)
-- 20% Two in-class quizzes (10/30 and 11/20)
-- 10% Attendance and participation. I expect that all students attend lectures and at least half of recitation sections. There will be online signins for lecture and recitation sections. 
-
-IF your attendance at lecture is >75%, you will receive full 10% credit. Otherwise, your credit will correspond to overall attendance rate at lecture and recitation.
-
-- Assignment of Grades
-  - A >=94
-  - A- 90-94
-  - B+ 87-90
-  - B  84-87
-  - B- 80-84
-  - C+ 77-80
-  - C  74-77
-  - C- 70-74
-  - D+ 67-70
-  - D  64-67
-  - D- 60-64
-  - F  <60%
-
+- 80% Average of 8 weekly problem sets (each normalized to count equally)
+- 15% Two in-class quizzes 
+- 5% General course participation
 
 ### Learning Resources
 
 There is no textbook for the class but references for recommended (and sometimes required) reading will be posted on the weekly calendar on course web site.
 
-We will maintain course notes on the class web site:
-
-[BDS 310 Course notes]((https://bds310.github.io))<br>
-
 ### Ways to get help
 - Attending recitation section
 - Thursday night Zoom office hours/Help
-- Post to Canvas [Canvas discussion forum](
-https://canvas.oregonstate.edu/courses/2016349/discussion_topics/11271229)
-
+- Post to Canvas [Canvas discussion forum]((https://canvas.oregonstate.edu/courses/1974493/discussion_topics/10853687))
 - Class Discord Channel
+- Messaging all teaching staff (via Canvas)
 
 ### Homework Submission; Late Policy
 
-- All homework will be submitted via the DataScience Hub on Course Canvas Page. Launch the DataScience Hub from [Canvas](https://canvas.oregonstate.edu/courses/2016349/modules/items/25927123)
-
-- For most assignments, your homework will be posted in the `/home/hub_data_share/hw` directory. Homework will be posted one week before assignment due (typically Fridays at 11:59 pm.) To complete homework, copy the specific assignment folder (e.g. `hw01` to your personal directory (e.g. since my username is `warrenti`, I would put `hw01` in  `/home/warrenti/hw`)). *You must complete HW in your home directory, not hub_data_share.*
-- Assignment submission is on Gradescope. ave your notebook,preserving the original name (e.g. `hw01.ipynb`), then run the last grader.export() cell, which produces a .zip file. Download this onto your local machine and then upload on Gradescope. Gradescope can be accessed via Canvas, or at this [link](https://www.gradescope.com/courses/1131967). Each student will receive one grace period to submit homework up to 72 hours late (e.g. assignment due Friday at 11:59 would be due Monday at 11:59.) Any other late homework submissions, or submissions beyond 72 hours after deadline, will be considered at instructor discretion and receive 50% deduction.
+- All homework will be submitted via the DataScience Hub on Course Canvas Page. Launch the DataScience Hub from [Canvas](https://canvas.oregonstate.edu/courses/1974493/modules/items/24694627). 
+- For most assignments, your homework will be posted in the `/home/hub_data_share/hw` directory. Homework will be posted one week before assignment due (typically Fridays at 11:59 pm.) To complete homework, copy the specific assignment folder (e.g. `hw01` to your personal directory (e.g. since my username is `warrenti`, I would put `hw01` in  `/home/warrenti/hw`)). Work on it in that location.
+- Assignment submission is on Gradescope. Be sure to save your notebook - preserving the original name (e.g. `hw01.ipynb`), then run the last grader.export() cell, which produces a .zip file. Download this onto your local machine and then upload on Gradescope. Gradescope can be accessed via Canvas, or at this [link](https://www.gradescope.com/courses/879117). Each student will receive two grace periods to submit homework up to 72 hours late (e.g. assignment due Friday at 11:59 would be due Monday at 11:59.) Any other late homework submissions, or submissions beyond 72 hours after deadline, will be considered at instructor discretion and receive 50% deduction.
 
 ### Course Code of Conduct (Adopted from [Carpentries](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html))
 
@@ -131,10 +106,9 @@ We all should strive to foster a welcoming, supportive environment. This involve
 
 
 
-### Collaboration, Academic Dishonesty, and Generative AI Tools
+### Collaboration and Academic Dishonesty
 
-I encourage (and will sometimes require you) to work with others on homework problems. But the work that you submit for homework must be your individual solution, composed by you and never copied from other students or other sources). Rather than copying someone else's work, please ask for help! Generative AI-based reference sources (incluing but not limited to ChatGPT, Copilot, or Claude) should be considered similarly to other reference sources (knowledgeable friends, books). It's OK, and sometimes very useful, to consult them for advice but never to copy a solution. You should be able to reproduce the work you submit on your own after submitting it. 
-
+I encourage (and will sometimes require you) to work with others on homework problems. But the work that you submit for the homework and final project must be your individual solution, implemented by you (never directly copied from other students or other sources). Rather than copying someone else's work, please ask for help! AI-based reference sources should be considered similarly to another student. It's OK to consult them for advice but not to copy a solution. You should be able to reproduce the work on your own after submitting it. 
 
 ### Statement Regarding Students with Disabilities
 
@@ -161,7 +135,7 @@ Additionally, there will be a midterm course evaluation at the end of week 5.
 ### Attribution
 
 
-Some of this course builds upon already established curricula for teaching data science and Python programming. In particular, I have consulted materials developed by [The Carpentries](https://carpentries.org/), a nonprofit foundation where I serve as an instructor as well as materials from the [Data 8: Foundations of Data Science](http://data8.org/) and [Data 100: Principles and Techniques of Data Science](https://ds100.org/) at University of California, Berkeley
+Some of this course builds upon already established curricula for teaching data science and Python programming. In particular, I have relied on materials developed by [The Carpentries](https://carpentries.org/), a nonprofit foundation where I serve as an instructor. Furthermore, I have consulted and used some materials from the [Data 8: Foundations of Data Science](http://data8.org/) and [Data 100: Principles and Techniques of Data Science](https://ds100.org/) at University of California, Berkeley
 
 
 
