@@ -79,7 +79,8 @@ tim.warren AT oregonstate.edu
 ---
 ### Class notes
 - ##### [Intro to Python](./class_notes/week0.html) 
- <!---
+
+<!---
 - ##### [Intro to Unix](./class_notes/week1.html) 
 - ##### [Python data types and indexing](./class_notes/week2.html) 
 - ##### [For loops, appending to lists, and numpy commands](./class_notes/week3.html) 
@@ -87,7 +88,6 @@ tim.warren AT oregonstate.edu
 - ##### [Plotting with axes (labels and legends), np.diff, while loops](./class_notes/week5.html) 
 - ##### [Subsetting arrays with conditionals, using np.argmax, np.argmin and np.argsort, creating subplots](./class_notes/week6.html) 
 - ##### [Intro to dictionaries](./class_notes/week7.html) 
-
 -->
 
 
