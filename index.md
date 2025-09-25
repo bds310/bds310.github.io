@@ -41,7 +41,7 @@ tim.warren AT oregonstate.edu
   <div style="display: inline-block; text-align: left; margin-left: 0px;">
     <img src="./assets/images/Andrea_head_shot.jpg" width="75" height="75" alt="Instructor 1"><br>
     <strong>Andrea Schiffer (Head CA)</strong><br>
-    davidson AT oregonstate.edu
+    schiffan AT oregonstate.edu
   </div>
 <div style="display: inline-block; text-align: left; margin-left: 20px;">
     <img src="./assets/images/steven.jpg" width="75" height="75" alt="Instructor 4"><br>
