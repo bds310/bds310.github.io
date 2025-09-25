@@ -39,18 +39,18 @@ tim.warren AT oregonstate.edu
  <!-- First Row -->
 <div style="text-align: left;">
   <div style="display: inline-block; text-align: left; margin-left: 0px;">
-    <img src="./assets/images/blank_avatar" width="75" height="75" alt="Instructor 1"><br>
+    <img src="./assets/images/Andrea_head_shot.jpg" width="75" height="75" alt="Instructor 1"><br>
     <strong>Andrea Schiffer (Head CA)</strong><br>
     davidson AT oregonstate.edu
   </div>
 <div style="display: inline-block; text-align: left; margin-left: 20px;">
-    <img src="./assets/images/blank_avatar" width="75" height="75" alt="Instructor 4"><br>
+    <img src="./assets/images/steven.jpg" width="75" height="75" alt="Instructor 4"><br>
     <strong>Steven Cai</strong><br>
     caist AT oregonstate.edu
   </div>
 
   <div style="display: inline-block; text-align: left; margin-top: 20px;">
-    <img src="./assets/images/blank_avatar" width="75" height="75" alt="Instructor 4"><br>
+    <img src="./assets/images/sarah.jpg" width="75" height="75" alt="Instructor 4"><br>
     <strong>Sarah Hoekema </strong><br>
    hoekemas AT oregonstate.edu
   </div>
