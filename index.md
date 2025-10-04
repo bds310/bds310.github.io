@@ -78,7 +78,8 @@ tim.warren AT oregonstate.edu
 
 ---
 ### Class notes
-- ##### [Intro to Python](./class_notes/Intro_to_Python.html) 
+- ##### [Intro to Python](./class_notes/Intro_to_Python.html)
+- ##### [Unix Shell](./class_notes/week1.html)
 
 <!--
 - ##### [Python data types and indexing](./class_notes/week2.html) 
