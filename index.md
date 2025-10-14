@@ -63,7 +63,7 @@ tim.warren AT oregonstate.edu
 <div style="text-align: left; margin-top: 0px;">
   <!-- Second Row -->
   <div style="display: inline-block; text-align: left;">
-    <img src="./assets/images/blank_avatar" width="75" height="75" alt="Divi"><br>
+    <img src="./assets/images/Morgan-Miller-LeBoldus-Lab.jpg" width="75" height="75" alt="Divi"><br>
     <strong>Morgan Miller</strong><br>
     morgan.miller AT oregonstate.edu
   </div>
