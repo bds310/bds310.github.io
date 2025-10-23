@@ -105,7 +105,7 @@ tim.warren AT oregonstate.edu
 |     |    |     |      |
 | Week 2 <br /> 10/07, 10/09    | Python Fundamentals: Data types, Storing and accessing data, Making Plots  | [Class curriculum](https://swcarpentry.github.io/python-novice-inflammation/)  <br>  [General Python Reference](https://docs.python.org/3/reference/index.html)<br> [Python in Jup. Notebooks](http://mbakker7.github.io/exploratory_computing_with_python/)                                       | HW 2 <br/> Due Fri 10/17|
 |     |    |     |      |
-| Week 3 <br /> 10/14, 10/16    |Repeating actions with for loops | [for loops](https://swcarpentry.github.io/python-novice-inflammation/05-loop.html)     | HW 3 <br/> Due Fri 10/24|
+| Week 3 <br /> 10/14, 10/16    |Repeating actions with for loops | [for loops](https://swcarpentry.github.io/python-novice-inflammation/05-loop.html)     | HW 3 <br/> Due **Mon 10/27**|
 |     |    |     | |
 | Week 4 <br /> 10/21, 10/23    | Making Choices and conditional statements  |   | **Quiz 1: 10/30** |
 |     |    |     |      |
