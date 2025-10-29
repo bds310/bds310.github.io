@@ -82,6 +82,7 @@ tim.warren AT oregonstate.edu
 - ##### [Unix Shell](./class_notes/week1.html)
 - ##### [Lists and Slicing](./class_notes/lists_slicing.html)
 - ##### [Basic Numpy](./class_notes/numpy.html)
+- ##### [For Loops](./class_notes/for_loops.html)
 
 <!--
 - ##### [Python data types and indexing](./class_notes/week2.html) 
