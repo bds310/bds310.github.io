@@ -83,6 +83,7 @@ tim.warren AT oregonstate.edu
 - ##### [Lists and Slicing](./class_notes/lists_slicing.html)
 - ##### [Basic Numpy](./class_notes/numpy.html)
 - ##### [For Loops](./class_notes/for_loops.html)
+- ##### [Conditional Statements and While Loops](./class_notes/conditionals.html)
 
 <!--
 - ##### [Python data types and indexing](./class_notes/week2.html) 
