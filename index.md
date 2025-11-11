@@ -81,7 +81,7 @@ tim.warren AT oregonstate.edu
 - ##### [Intro to Python](./class_notes/Intro_to_Python.html)
 - ##### [Unix Shell](./class_notes/week1.html)
 - ##### [Lists and Slicing](./class_notes/lists_slicing.html)
-- ##### [Basic Numpy](./class_notes/numpy.html)
+- ##### [Numpy](./class_notes/numpy.html)
 - ##### [For Loops](./class_notes/for_loops.html)
 - ##### [Conditional Statements and While Loops](./class_notes/conditionals.html)
 
