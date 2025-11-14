@@ -84,6 +84,7 @@ tim.warren AT oregonstate.edu
 - ##### [Numpy](./class_notes/numpy.html)
 - ##### [For Loops](./class_notes/for_loops.html)
 - ##### [Conditional Statements and While Loops](./class_notes/conditionals.html)
+- ##### [Functions](./class_notes/functions.html)
 
 <!--
 - ##### [Python data types and indexing](./class_notes/week2.html) 
