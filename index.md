@@ -86,6 +86,7 @@ tim.warren AT oregonstate.edu
 - ##### [Conditional Statements and While Loops](./class_notes/conditionals.html)
 - ##### [Functions](./class_notes/functions.html)
 - ##### [Matplotlib](./class_notes/matplotlib.html)
+- ##### [Dictionaries](./class_notes/dictionary.html)
 
 <!--
 - ##### [Python data types and indexing](./class_notes/week2.html) 
