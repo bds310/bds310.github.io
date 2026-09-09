@@ -3,7 +3,7 @@ layout: page
 title: BDS 310 - Foundations of Biological Data Science
 ---
 
-## Fall 2026
+## Fall 2025
 ### Lecture: Tuesday/Thursday 10:00-11:20am, ALS 4000
 [Campus map](https://map.oregonstate.edu/?building=ALS)
 
