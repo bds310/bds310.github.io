@@ -112,15 +112,15 @@ tim.warren AT oregonstate.edu
 |     |    |     |      |
 | Week 3 <br /> 10/13, 10/15    |Repeating actions with for loops | [for loops](https://swcarpentry.github.io/python-novice-inflammation/05-loop.html)     | HW 3 <br/> Due Fri 10/30|
 |     |    |     | |
-| Week 4 <br /> 10/20, 10/22    | Making Choices and conditional statements  |   | **Quiz 1: 10/22** |
+| Week 4 <br /> 10/20, 10/22    | Making Choices and conditional statements  |  *In-class quiz, Th 10/22* | **Quiz 1: 10/22** |
 |     |    |     |      |
-|  Week 5 <br /> 10/27, 10/29 **Quiz**   | While Loops |<br> *In-class quiz, Th 10/30*|   HW 4 <br/> Due Fri 11/06 |
+|  Week 5 <br /> 10/27, 10/29 **Quiz**   | While Loops |<br> |   HW 4 <br/> Due Fri 11/06 |
 |     |    |     |      |
 | Week 6 <br />  11/03, 11/05    | Functions |  [defining functions](https://swcarpentry.github.io/python-novice-inflammation/08-func/index.html)  | HW 5 <br/> Due Fri 11/13 |
 |     |    |     |      |
-| Week 7 <br /> 11/10, 11/13    | Dictionaries |  [dictionary reference](https://www.greenteapress.com/thinkpython2/html/thinkpython2012.html)            |**Quiz 2: 11/20**|
+| Week 7 <br /> 11/10, 11/13    | Dictionaries |  [dictionary reference](https://www.greenteapress.com/thinkpython2/html/thinkpython2012.html)            ||
 |     |    |     |      |
-| Week 8 <br /> 11/17, 11/19  |Data visualization & Quiz | [matplotlib example plots](https://matplotlib.org/stable/gallery/index.html)<br> [axis handles](https://matplotlib.org/stable/api/axes_api.html)    <br> *In-class quiz, Th 11/20*                                         |   |
+| Week 8 <br /> 11/17, 11/19  |Data visualization & Quiz | [matplotlib example plots](https://matplotlib.org/stable/gallery/index.html)<br> [axis handles](https://matplotlib.org/stable/api/axes_api.html)    <br> *In-class quiz, Th 11/20*                                         |**Quiz 2: 11/20**|
 |     |    |     |      |
 | Week 9 <br /> Tu 11/25      |Data Visualizion continued| [file input and output tutorial](https://datacarpentry.org/python-socialsci/05-processing-data-from-file/index.html) | HW 6 <br/> Due Fri 12/04|                              
 |     |    |     |      |
