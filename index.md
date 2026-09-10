@@ -39,20 +39,20 @@ tim.warren AT oregonstate.edu
  <!-- First Row -->
 <div style="text-align: left;">
   <div style="display: inline-block; text-align: left; margin-left: 0px;">
-    <img src="./assets/images/Andrea_head_shot.jpg" width="75" height="75" alt="Instructor 1"><br>
-    <strong>Andrea Schiffer (Head CA)</strong><br>
-    schiffan AT oregonstate.edu
+    <img src="./assets/images/blank_avatar" width="75" height="75" alt="Instructor 1"><br>
+    <strong>Matoska Silva (Head CA)</strong><br>
+    email AT oregonstate.edu
   </div>
 <div style="display: inline-block; text-align: left; margin-left: 20px;">
-    <img src="./assets/images/steven.jpg" width="75" height="75" alt="Instructor 4"><br>
-    <strong>Steven Cai</strong><br>
-    caist AT oregonstate.edu
+    <img src="./assets/images/blank_avatar" width="75" height="75" alt="Instructor 4"><br>
+    <strong>CA One</strong><br>
+    email AT oregonstate.edu
   </div>
 
   <div style="display: inline-block; text-align: left; margin-top: 20px;">
-    <img src="./assets/images/sarah.jpg" width="75" height="75" alt="Instructor 4"><br>
-    <strong>Sarah Hoekema </strong><br>
-   hoekemas AT oregonstate.edu
+    <img src="./assets/images/blank_avatar" width="75" height="75" alt="Instructor 4"><br>
+    <strong>CA Two </strong><br>
+   email AT oregonstate.edu
   </div>
   
   
@@ -63,14 +63,14 @@ tim.warren AT oregonstate.edu
 <div style="text-align: left; margin-top: 0px;">
   <!-- Second Row -->
   <div style="display: inline-block; text-align: left;">
-    <img src="./assets/images/Morgan-Miller-LeBoldus-Lab.jpg" width="75" height="75" alt="Divi"><br>
-    <strong>Morgan Miller</strong><br>
-    morgan.miller AT oregonstate.edu
+    <img src="./assets/images/blank_avatar" width="75" height="75" alt="Divi"><br>
+    <strong>CA Three</strong><br>
+    email AT oregonstate.edu
   </div>
   <div style="display: inline-block; text-align: left; margin: 30px;">
     <img src="./assets/images/blank_avatar" width="75" height="75" alt="Vini Karumuru"><br>
-    <strong>Imre Rist</strong><br>
-    risti AT oregonstate.edu
+    <strong>CA Four</strong><br>
+    email AT oregonstate.edu
   </div>
   
   
@@ -124,6 +124,7 @@ tim.warren AT oregonstate.edu
 |     |    |     |      |
 | Week 9 <br /> Tu 11/25      |Data Visualizion continued| [file input and output tutorial](https://datacarpentry.org/python-socialsci/05-processing-data-from-file/index.html) | HW 6 <br/> Due Fri 12/04|                              
 |     |    |     |      |
-| Week 10 <br /> 12/01, 12/03   | Synthesis. Command-Line Scripts<br> |                         |**Final** <br/> **Thu 12/10** |
-
+| Week 10 <br /> 12/01, 12/03   | Synthesis. Command-Line Scripts<br> |                         |   |
+|     |    |     |      |
+| **Final Exam: Thu 12/10, 9:30 AM**
 
