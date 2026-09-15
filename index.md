@@ -78,6 +78,8 @@ tim.warren AT oregonstate.edu
 
 ---
 ### Class notes
+#### *Coming soon!*
+<!--
 - ##### [Intro to Python](./class_notes/Intro_to_Python.html)
 - ##### [Unix Shell](./class_notes/week1.html)
 - ##### [Lists and Slicing](./class_notes/lists_slicing.html)
@@ -88,7 +90,7 @@ tim.warren AT oregonstate.edu
 - ##### [Matplotlib](./class_notes/matplotlib.html)
 - ##### [Dictionaries](./class_notes/dictionary.html)
 
-<!--
+
 - ##### [Python data types and indexing](./class_notes/week2.html) 
 - ##### [For loops, appending to lists, and numpy commands](./class_notes/week3.html) 
 - ##### [Function, nested loops, logic operators, if statements, in statements](./class_notes/week4.html) 
