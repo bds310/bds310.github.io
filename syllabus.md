@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Syllabus <br> Biological Data Sciences 310 <br> Computational Approaches to Biological Data <br> Fall 2026, Oregon State University
+title: Syllabus <br> Biological Data Sciences 310 <br> Foundations of Biological Data Sciences <br> Fall 2026, Oregon State University
 ---
 
 ### Instructor
