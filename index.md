@@ -1,6 +1,6 @@
 ---
 layout: page
-title: BDS 310 - Foundations of Biological Data Science
+title: BDS 310 - Foundations of Biological Data Sciences
 ---
 
 ## Fall 2026
