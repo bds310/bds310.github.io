@@ -39,7 +39,7 @@ tim.warren AT oregonstate.edu
  <!-- First Row -->
 <div style="text-align: left;">
   <div style="display: inline-block; text-align: left; margin-left: 0px;">
-    <img src="./assets/images/blank_avatar" width="75" height="75" alt="Instructor 1"><br>
+    <img src="./assets/images/matoska_headshot.png" width="75" height="75" alt="Instructor 1"><br>
     <strong>Matoska Silva (Head CA)</strong><br>
     email AT oregonstate.edu
   </div>
@@ -51,7 +51,7 @@ tim.warren AT oregonstate.edu
 
   <div style="display: inline-block; text-align: left; margin-top: 20px;">
     <img src="./assets/images/blank_avatar" width="75" height="75" alt="Instructor 4"><br>
-    <strong>CA Two </strong><br>
+    <strong>Curtis Reeves</strong><br>
    email AT oregonstate.edu
   </div>
   
