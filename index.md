@@ -120,11 +120,11 @@ tim.warren AT oregonstate.edu
 |     |    |     |      |
 | Week 6 <br />  11/03, 11/05    | Functions |  [defining functions](https://swcarpentry.github.io/python-novice-inflammation/08-func/index.html)  | HW 5 <br/> Due Fri 11/13 |
 |     |    |     |      |
-| Week 7 <br /> 11/10, 11/13    | Dictionaries |  [dictionary reference](https://www.greenteapress.com/thinkpython2/html/thinkpython2012.html)            ||
+| Week 7 <br /> 11/10, 11/12    | Dictionaries |  [dictionary reference](https://www.greenteapress.com/thinkpython2/html/thinkpython2012.html)            ||
 |     |    |     |      |
-| Week 8 <br /> 11/17, 11/19  |Data visualization & Quiz | [matplotlib example plots](https://matplotlib.org/stable/gallery/index.html)<br> [axis handles](https://matplotlib.org/stable/api/axes_api.html)    <br> *In-class quiz, Th 11/20*                                         |**Quiz 2: 11/20**|
+| Week 8 <br /> 11/17, 11/19  |Data visualization & Quiz | [matplotlib example plots](https://matplotlib.org/stable/gallery/index.html)<br> [axis handles](https://matplotlib.org/stable/api/axes_api.html)    <br> *In-class quiz, Th 11/19*                                         |**Quiz 2: 11/19**|
 |     |    |     |      |
-| Week 9 <br /> Tu 11/25      |Data Visualizion continued| [file input and output tutorial](https://datacarpentry.org/python-socialsci/05-processing-data-from-file/index.html) | HW 6 <br/> Due Fri 12/04|                              
+| Week 9 <br /> Tu 11/24      |Data Visualizion continued| [file input and output tutorial](https://datacarpentry.org/python-socialsci/05-processing-data-from-file/index.html) | HW 6 <br/> Due Fri 12/04|                              
 |     |    |     |      |
 | Week 10 <br /> 12/01, 12/03   | Synthesis. Command-Line Scripts<br> |                         |   |
 |     |    |     |      |
