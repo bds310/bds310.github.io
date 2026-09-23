@@ -75,9 +75,9 @@ At the completion of this course, students will be able to:
 
 ### Grading
 
-- **45%** Average of 7 problem sets (each normalized to count equally)
+- **45%** Average of 7 problem sets (each normalized to count equally, except HW0)
 - **45%** Two in-class quizzes (10/22 and 11/20) and a Final Exam (12/10, 9:30 AM)
-- **10%** Attendance and participation. I expect that all students attend lectures and at least half of recitation sections. There will be online sign-ins for lecture and recitation sections. 
+- **10%** Attendance and participation. There will be online sign-ins for lecture and recitation sections. 
 
 To receive full credit for attendance and participation, you must attend >=75% of all lectures AND >=50% of all recitation sessions.
 
