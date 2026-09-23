@@ -11,19 +11,19 @@ tim.warren AT oregonstate.edu
 ### Course Assistants
 
 - Matoska Silva (Head CA)<br>
-email AT oregonstate.edu<br>
+silvamat AT oregonstate.edu<br>
 
 - Asa Jorg<br>
-email AT oregonstate.edu
+jorga AT oregonstate.edu
 
 - Curtis Reeves<br>
-email AT oregonstate.edu
+reevescu AT oregonstate.edu
 
 - Cole Skinder<br>
-email AT oregonstate.edu    
+skinderc AT oregonstate.edu    
 
 - Kate Stange<br>
-email AT oregonstate.edu<br>
+stangek AT oregonstate.edu<br>
 
  
 
