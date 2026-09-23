@@ -108,19 +108,21 @@ We will maintain course notes on the class website:
 - Attending recitation section
 - Thursday night Zoom office hours/help
 - Post to Canvas [Canvas discussion forum](
-https://canvas.oregonstate.edu/courses/2016349/discussion_topics/11271229)
+https://canvas.oregonstate.edu/courses/2059641/discussion_topics/11680404)
 
 - Class Discord Channel
 
 ### Homework Submission; Late Policy
 
-- All homework will be submitted via the DataScience Hub on Course Canvas Page. Launch the DataScience Hub from [Canvas](https://canvas.oregonstate.edu/courses/2016349/modules/items/25927123)
+- All homework will be completed via the DataScience JupyterHub on the course Canvas page. Launch the DataScience Hub from [Canvas](https://canvas.oregonstate.edu/courses/2059641/modules/items/27147089)
 
-- For most assignments, your homework will be posted in the `/home/hub_data_share/hw` directory. Homework will be posted one week before assignment due (typically Fridays at 11:59 pm.) To complete homework, copy the specific assignment folder (e.g. `hw01` to your personal directory (e.g. since my username is `warrenti`, I would put `hw01` in  `/home/warrenti/hw`)). *You must complete HW in your home directory, not hub_data_share.*
+- You can access the homework assignments from the [BDS 310 Homework Repository](https://canvas.oregonstate.edu/courses/2059641/modules/items/27282070) link on Canvas. First, open a JupyterHub instance as described in the step above. Then, go to Canvas and click the BDS 310 Homework Repository link. Then, navigate back to JupyterHub, and the homework repository folder will be in your personal directory (this is a folder labeled with your ONID). To update the repository when a new assignment is released, simply click the BDS 310 Homework Repository link again. You will not lose any saved work.
 
-- Assignment submission is on Gradescope. Save your notebook,preserving the original name (e.g. `hw01.ipynb`), then run the last grader.export() cell, which produces a .zip file. Download this onto your local machine and then upload on Gradescope. Gradescope can be accessed via Canvas, or at this [link](https://www.gradescope.com/courses/1131967). 
+- Homework will be posted one week before the assignment is due (typically Fridays at 11:59 pm).
 
-- Each student will receive a single grace period to submit one homework up to 72 hours late (e.g. assignment due Friday at 11:59 would be due Monday at 11:59.) Any other late homework submissions, or submissions beyond 72 hours after deadline, will be considered at instructor discretion and receive 50% deduction. This grace period is available for a single assignment between HW01-HW06. It does not apply to HW 07.
+- Assignment submission is on Gradescope. Save your notebook, preserving the original name (e.g. `hw01.ipynb`), then run the last grader.export() cell, which produces a .zip file. Download this onto your local machine and then upload on Gradescope. Gradescope can be accessed via Canvas, or at this [link](https://www.gradescope.com/courses/1393538). 
+
+- Each student will receive a single grace period to submit one homework up to 72 hours late (e.g. assignment due Friday at 11:59 pm would be due Monday at 11:59 pm.) Any other late homework submissions, or submissions beyond 72 hours after deadline, will be considered at instructor discretion and receive 50% deduction. This grace period is available for a single assignment between HW0-HW05. It does not apply to HW06.
 
 ### Course Code of Conduct (Adopted from [Carpentries](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html))
 
