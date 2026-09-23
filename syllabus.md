@@ -82,17 +82,17 @@ At the completion of this course, students will be able to:
 IF your attendance at lecture is >75%, you will receive full 10% credit. Otherwise, your credit will correspond to overall attendance rate at lecture and recitation.
 
 - Assignment of Grades
-  - A >=94
-  - A- 90-94
-  - B+ 87-90
-  - B  84-87
-  - B- 80-84
-  - C+ 77-80
-  - C  74-77
-  - C- 70-74
-  - D+ 67-70
-  - D  64-67
-  - D- 60-64
+  - A >=93
+  - A- 90-93
+  - B+ 86-90
+  - B  83-86
+  - B- 80-83
+  - C+ 76-80
+  - C  73-76
+  - C- 70-73
+  - D+ 66-70
+  - D  63-66
+  - D- 60-63
   - F  <60%
 
 
