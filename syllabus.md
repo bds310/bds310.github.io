@@ -116,7 +116,7 @@ https://canvas.oregonstate.edu/courses/2059641/discussion_topics/11680404)
 
 - All homework will be completed via the DataScience JupyterHub on the course Canvas page. Launch the DataScience Hub from [Canvas](https://canvas.oregonstate.edu/courses/2059641/modules/items/27147089)
 
-- You can access the homework assignments from the [BDS 310 Homework Repository](https://canvas.oregonstate.edu/courses/2059641/modules/items/27282070) link on Canvas. First, open a JupyterHub instance as described in the step above. Then, go to Canvas and click the BDS 310 Homework Repository link. Then, navigate back to JupyterHub, and the homework repository folder will be in your personal directory (this is a folder labeled with your ONID). To update the repository when a new assignment is released, simply click the BDS 310 Homework Repository link again. You will not lose any saved work.
+- You can access the homework assignments from the BDS 310 Homework Repository link on Canvas. First, open a JupyterHub instance as described in the step above. Then, go to Canvas and click the BDS 310 Homework Repository link. Then, navigate back to JupyterHub, and the homework repository folder will be in your personal directory (this is a folder labeled with your ONID). To update the repository when a new assignment is released, simply click the BDS 310 Homework Repository link again. You will not lose any saved work.
 
 - Homework will be posted one week before the assignment is due (typically Fridays at 11:59 pm).
 
