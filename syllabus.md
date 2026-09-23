@@ -13,16 +13,16 @@ tim.warren AT oregonstate.edu
 - Matoska Silva (Head CA)<br>
 email AT oregonstate.edu<br>
 
-- CA One<br>
+- Asa Jorg<br>
 email AT oregonstate.edu
 
-- CA Two<br>
+- Curtis Reeves<br>
 email AT oregonstate.edu
 
-- CA Three<br>
+- Cole Skinder<br>
 email AT oregonstate.edu    
 
-- CA Four<br>
+- Kate Stange<br>
 email AT oregonstate.edu<br>
 
  
