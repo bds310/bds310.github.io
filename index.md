@@ -4,11 +4,11 @@ title: BDS 310 - Foundations of Biological Data Sciences
 ---
 
 ## Fall 2026
-### Lecture: Tuesday/Thursday 10:00-11:20am, ALS 4000
+### Lecture: Tuesday/Thursday 10:00-11:20 am, ALS 4000
 [Campus map](https://map.oregonstate.edu/?building=ALS)
 
 
-### Recitation Sections: (1) Wednesday 1-2:30, (2) 3:00-4:30pm, Cordley 2602 
+### Recitation Sections: (1) Wednesday 1-2:30, (2) 3:00-4:30 pm, Cordley 2602 
   
 [Campus map](https://map.oregonstate.edu/?building=Cord)
 
@@ -41,18 +41,18 @@ tim.warren AT oregonstate.edu
   <div style="display: inline-block; text-align: left; margin-left: 0px;">
     <img src="./assets/images/matoska_headshot.png" width="75" height="75" alt="Instructor 1"><br>
     <strong>Matoska Silva (Head CA)</strong><br>
-    email AT oregonstate.edu
+    silvamat AT oregonstate.edu
   </div>
 <div style="display: inline-block; text-align: left; margin-left: 20px;">
     <img src="./assets/images/asa_headshot.jpg" width="75" height="75" alt="Instructor 4"><br>
     <strong>Asa Jorg</strong><br>
-    email AT oregonstate.edu
+    jorga AT oregonstate.edu
   </div>
 
   <div style="display: inline-block; text-align: left; margin-top: 20px;">
     <img src="./assets/images/blank_avatar" width="75" height="75" alt="Instructor 4"><br>
     <strong>Curtis Reeves</strong><br>
-   email AT oregonstate.edu
+   reevescu AT oregonstate.edu
   </div>
   
   
@@ -65,12 +65,12 @@ tim.warren AT oregonstate.edu
   <div style="display: inline-block; text-align: left;">
     <img src="./assets/images/cole_headshot.png" width="75" height="75" alt="Divi"><br>
     <strong>Cole Skinder</strong><br>
-    email AT oregonstate.edu
+    skinderc AT oregonstate.edu
   </div>
   <div style="display: inline-block; text-align: left; margin: 30px;">
     <img src="./assets/images/kate_headshot.jpg" width="75" height="75" alt="Vini Karumuru"><br>
     <strong>Kate Stange</strong><br>
-    email AT oregonstate.edu
+    stangek AT oregonstate.edu
   </div>
   
   
