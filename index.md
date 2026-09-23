@@ -63,13 +63,13 @@ tim.warren AT oregonstate.edu
 <div style="text-align: left; margin-top: 0px;">
   <!-- Second Row -->
   <div style="display: inline-block; text-align: left;">
-    <img src="./assets/images/blank_avatar" width="75" height="75" alt="Divi"><br>
-    <strong>CA Three</strong><br>
+    <img src="./assets/images/cole_headshot.png" width="75" height="75" alt="Divi"><br>
+    <strong>Cole Skinder</strong><br>
     email AT oregonstate.edu
   </div>
   <div style="display: inline-block; text-align: left; margin: 30px;">
-    <img src="./assets/images/blank_avatar" width="75" height="75" alt="Vini Karumuru"><br>
-    <strong>CA Four</strong><br>
+    <img src="./assets/images/kate_headshot.jpg" width="75" height="75" alt="Vini Karumuru"><br>
+    <strong>Kate Stange</strong><br>
     email AT oregonstate.edu
   </div>
   
