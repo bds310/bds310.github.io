@@ -102,7 +102,7 @@ There is no textbook for the class but references for recommended (and sometimes
 
 We will maintain course notes on the class website:
 
-[BDS 310 Course notes]((https://bds310.github.io))<br>
+[BDS 310 Course notes](https://bds310.github.io)<br>
 
 ### Ways to get help
 - Attending recitation section
