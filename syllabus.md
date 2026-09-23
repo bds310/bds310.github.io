@@ -36,7 +36,7 @@ stangek AT oregonstate.edu<br>
 - Recitation Sections: Wednesday 1:00-2:30, Weds 3:00-4:30pm, Cordley 2602
 - Additional Help/Office Hours: Thursday 6:00-7:30pm on class Zoom (or by appointment)
 - Course Website (Weekly Calendar) <https://bds310.github.io/>
-- Canvas Site (Access to Jupyter Hub, Problem Sets, Gradescope, Etherpad, Zoom, etc.) <https://canvas.oregonstate.edu/courses/2016349>
+- Canvas Site (Access to Jupyter Hub, Problem Sets, Gradescope, Etherpad, Zoom, etc.) <https://canvas.oregonstate.edu/courses/2059641>
 
 
 ### Course Description
