@@ -136,7 +136,7 @@ We all should strive to foster a welcoming, supportive environment. This involve
 
 ### Collaboration, Academic Dishonesty, and Generative AI Tools
 
-I encourage (and will sometimes require you) to work with others on homework problems. But the work that you submit for homework must be your individual solution, composed by you and never copied from other students or other sources). Rather than copying someone else's work, please ask for help! Generative AI-based reference sources (incluing but not limited to ChatGPT, Copilot, or Claude) should be considered similarly to other reference sources (knowledgeable friends, books). It's OK, and sometimes very useful, to consult them for advice but never to copy a solution. You should be able to reproduce the work you submit on your own after submitting it. 
+I encourage (and will sometimes require you) to work with others on homework problems. But the work that you submit for homework must be your individual solution, composed by you and never copied from other students or other sources). Rather than copying someone else's work, please ask for help! Generative AI-based reference sources (including but not limited to ChatGPT, Copilot, or Claude) should be considered similarly to other reference sources (knowledgeable friends, books). It's OK, and sometimes very useful, to consult them for advice but never to copy a solution. You should be able to reproduce the work you submit on your own after submitting it. 
 
 
 ### Statement Regarding Students with Disabilities
