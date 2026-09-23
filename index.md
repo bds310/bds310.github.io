@@ -44,8 +44,8 @@ tim.warren AT oregonstate.edu
     email AT oregonstate.edu
   </div>
 <div style="display: inline-block; text-align: left; margin-left: 20px;">
-    <img src="./assets/images/blank_avatar" width="75" height="75" alt="Instructor 4"><br>
-    <strong>CA One</strong><br>
+    <img src="./assets/images/asa_headshot.jpg" width="75" height="75" alt="Instructor 4"><br>
+    <strong>Asa Jorg</strong><br>
     email AT oregonstate.edu
   </div>
 
