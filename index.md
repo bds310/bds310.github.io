@@ -82,24 +82,7 @@ tim.warren AT oregonstate.edu
 - ##### [Unix Shell](./class_notes/week1.html)
 
 
-<!--
 
-- ##### [Lists and Slicing](./class_notes/lists_slicing.html)
-- ##### [Numpy](./class_notes/numpy.html)
-- ##### [For Loops](./class_notes/for_loops.html)
-- ##### [Conditional Statements and While Loops](./class_notes/conditionals.html)
-- ##### [Functions](./class_notes/functions.html)
-- ##### [Matplotlib](./class_notes/matplotlib.html)
-- ##### [Dictionaries](./class_notes/dictionary.html)
-
-
-- ##### [Python data types and indexing](./class_notes/week2.html) 
-- ##### [For loops, appending to lists, and numpy commands](./class_notes/week3.html) 
-- ##### [Function, nested loops, logic operators, if statements, in statements](./class_notes/week4.html) 
-- ##### [Plotting with axes (labels and legends), np.diff, while loops](./class_notes/week5.html) 
-- ##### [Subsetting arrays with conditionals, using np.argmax, np.argmin and np.argsort, creating subplots](./class_notes/week6.html) 
-- ##### [Intro to dictionaries](./class_notes/week7.html) 
--->
 
 
 ---
