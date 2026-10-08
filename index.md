@@ -80,6 +80,7 @@ tim.warren AT oregonstate.edu
 ### Class notes
 - ##### [Intro to Python](./class_notes/Intro_to_Python.html)
 - ##### [Unix Shell](./class_notes/week1.html)
+- ##### [Unix Shell](./class_notes/lists_slicing.html)
 
 
 
