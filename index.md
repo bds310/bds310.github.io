@@ -81,6 +81,7 @@ tim.warren AT oregonstate.edu
 - ##### [Intro to Python](./class_notes/Intro_to_Python.html)
 - ##### [Unix Shell](./class_notes/week1.html)
 - ##### [Slicing Lists](./class_notes/lists_slicing.html)
+- ##### [Plotting with Matplotlib](./class_notes/matplotlib.html)
 
 
 
