@@ -50,7 +50,7 @@ tim.warren AT oregonstate.edu
   </div>
 
   <div style="display: inline-block; text-align: left; margin-top: 20px;">
-    <img src="./assets/images/blank_avatar" width="75" height="75" alt="Instructor 4"><br>
+    <img src="./assets/images/curtis_headshot.jpg" width="75" height="75" alt="Instructor 4"><br>
     <strong>Curtis Reeves</strong><br>
    reevescu AT oregonstate.edu
   </div>
