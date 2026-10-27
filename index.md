@@ -82,6 +82,7 @@ tim.warren AT oregonstate.edu
 - ##### [Unix Shell](./class_notes/week1.html)
 - ##### [Slicing Lists](./class_notes/lists_slicing.html)
 - ##### [Plotting with Matplotlib](./class_notes/matplotlib.html)
+- ##### [For Loops](./class_notes/for_loops.html)
 
 
 
