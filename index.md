@@ -84,6 +84,7 @@ tim.warren AT oregonstate.edu
 - ##### [Plotting with Matplotlib](./class_notes/matplotlib.html)
 - ##### [For Loops](./class_notes/for_loops.html)
 - ##### [Conditional Statements](./class_notes/conditionals.html)
+- ##### [Functions](./class_notes/functions.html)
 
 
 
