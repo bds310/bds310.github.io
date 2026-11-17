@@ -85,6 +85,7 @@ tim.warren AT oregonstate.edu
 - ##### [For Loops](./class_notes/for_loops.html)
 - ##### [Conditional Statements and While Loops](./class_notes/conditionals.html)
 - ##### [Functions](./class_notes/functions.html)
+- ##### [Dictionaries](./class_notes/dictionary.html)
 
 
 
